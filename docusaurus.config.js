@@ -11,13 +11,13 @@ const config = {
   favicon: 'img/promptless-favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://your-domain.github.io',
+  url: 'https://breonwilliams.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/promptless-docs/',
+  baseUrl: '/promptlesswp-documentation/', // Matches your repo name
 
   // GitHub pages deployment config
-  organizationName: 'your-github-username', // Usually your GitHub org/user name
-  projectName: 'promptless-docs', // Usually your repo name
+  organizationName: 'breonwilliams', // Your GitHub username
+  projectName: 'promptlesswp-documentation', // Your repository name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
