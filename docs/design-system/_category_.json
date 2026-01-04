@@ -1,0 +1,10 @@
+{
+  "label": "Design System",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Design System",
+    "description": "Customize colors, typography, and styling to match your brand",
+    "keywords": ["design", "colors", "typography", "branding", "themes"]
+  }
+}

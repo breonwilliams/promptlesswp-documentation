@@ -1,0 +1,10 @@
+{
+  "label": "Administration",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "title": "Administration",
+    "description": "Manage plugin settings, users, troubleshooting, and licensing",
+    "keywords": ["settings", "users", "troubleshooting", "backup", "licensing"]
+  }
+}

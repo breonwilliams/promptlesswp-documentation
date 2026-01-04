@@ -1,0 +1,10 @@
+{
+  "label": "Section Types",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Section Types",
+    "description": "Explore all available page sections and their customization options",
+    "keywords": ["hero", "features", "testimonials", "pricing", "faq", "team"]
+  }
+}

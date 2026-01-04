@@ -1,0 +1,10 @@
+{
+  "label": "WordPress Integration",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "title": "WordPress Integration",
+    "description": "Work seamlessly with WordPress themes, plugins, and features",
+    "keywords": ["wordpress", "themes", "database", "performance", "cache"]
+  }
+}

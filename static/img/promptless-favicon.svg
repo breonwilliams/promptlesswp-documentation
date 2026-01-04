@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="512" height="512" fill="#1a1a1a"/>
+  
+  <!-- White P logo centered and scaled -->
+  <g transform="translate(256, 256)">
+    <g transform="scale(0.9) translate(-166, -195)">
+      <path fill="#ffffff" d="M201.66,34c53.38,0,96.66,43.28,96.66,96.66s-43.28,96.66-96.66,96.66h-112.66v128.68h-55V34h167.66M201.66,0H0v390h123v-128.68h78.66c34.9,0,67.71-13.59,92.39-38.27s38.27-57.49,38.27-92.39-13.59-67.71-38.27-92.39C269.37,13.59,236.56,0,201.66,0h0Z"/>
+    </g>
+  </g>
+</svg>

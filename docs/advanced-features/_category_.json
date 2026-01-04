@@ -1,0 +1,10 @@
+{
+  "label": "Advanced Features",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "title": "Advanced Features",
+    "description": "Advanced customization options for power users",
+    "keywords": ["seo", "analytics", "custom css", "advanced"]
+  }
+}

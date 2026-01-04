@@ -1,0 +1,10 @@
+{
+  "label": "Editor Guide",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Editor Guide",
+    "description": "Master the Promptless WP page builder interface and workflow",
+    "keywords": ["editor", "sections", "preview", "publishing"]
+  }
+}
