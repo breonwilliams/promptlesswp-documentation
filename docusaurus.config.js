@@ -11,9 +11,9 @@ const config = {
   favicon: 'img/promptless-favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://breonwilliams.github.io',
+  url: 'https://help.promptlesswp.com',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/promptlesswp-documentation/', // GitHub Pages path
+  baseUrl: '/', // Root path for custom domain
 
   // GitHub pages deployment config
   organizationName: 'breonwilliams', // Your GitHub username
