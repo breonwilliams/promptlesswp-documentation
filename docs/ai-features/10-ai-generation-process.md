@@ -364,7 +364,7 @@ Before publishing your AI-generated page:
 After mastering the AI generation process:
 
 1. **Experiment** with different content types and formats
-2. **Learn** advanced [Design System](../design-system/) features for customization
+2. **Learn** advanced [Design System](../design-system/global-settings) features for customization
 3. **Explore** manual section building for unique elements
 4. **Check** [AI Troubleshooting](ai-troubleshooting) for specific issues
 

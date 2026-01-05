@@ -65,7 +65,7 @@ Promptless WP is a visual page builder for WordPress that allows you to:
 
 ### Reference
 - [FAQ](reference/faq)
-- [System Requirements](reference/troubleshooting)
+- [System Requirements](reference/system-requirements)
 - [Changelog](reference/changelog)
 
 ## Support

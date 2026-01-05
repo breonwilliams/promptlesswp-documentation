@@ -549,7 +549,7 @@ Now that you understand steps sections:
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/) for steps section styling
+- Check [Design System](../design-system/global-settings) for steps section styling
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: Great steps sections don't just explain what you do - they show visitors how easy it is to get the results they want. Focus on their experience and outcomes, not just your internal processes!

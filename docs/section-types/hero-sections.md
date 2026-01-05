@@ -439,7 +439,7 @@ Now that you understand hero sections:
 
 1. **Practice** creating different hero variations
 2. **Learn** about [Features Sections](features-sections) for supporting content
-3. **Explore** [Design System](../design-system/) for advanced styling
+3. **Explore** [Design System](../design-system/global-settings) for advanced styling
 4. **Test** different approaches to see what works for your audience
 
 ## Need More Help?

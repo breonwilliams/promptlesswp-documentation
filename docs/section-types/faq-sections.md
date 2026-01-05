@@ -485,7 +485,7 @@ Now that you understand FAQ sections:
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/) for FAQ styling options
+- Check [Design System](../design-system/global-settings) for FAQ styling options
 - Read [FAQ](../reference/faq) for common plugin questions
 
 Remember: Great FAQs don't just answer questions - they remove barriers to purchase and build confidence in your solution. Focus on what visitors really want to know, not just what you want to tell them!

@@ -320,8 +320,8 @@ Now that you understand the editor:
 
 1. **Practice** with the [Working with Sections](working-with-sections) guide
 2. **Learn** about [Preview & Publishing](preview-publishing)
-3. **Explore** different [Section Types](../section-types/)
-4. **Try** the [AI Features](../ai-features/) for faster content creation
+3. **Explore** different [Section Types](../section-types/hero-sections)
+4. **Try** the [AI Features](../ai-features/ai-overview) for faster content creation
 
 ## Need More Help?
 

@@ -340,14 +340,14 @@ Many sections use repeater fields for items like testimonials, features, or team
 
 Now that you know how to work with sections:
 
-1. **Explore** each [Section Type](../section-types/) in detail
+1. **Explore** each [Section Type](../section-types/hero-sections) in detail
 2. **Learn** about [Preview & Publishing](preview-publishing)
-3. **Try** the [AI Features](../ai-features/) to generate content faster
-4. **Experiment** with [Design System](../design-system/) controls
+3. **Try** the [AI Features](../ai-features/ai-overview) to generate content faster
+4. **Experiment** with [Design System](../design-system/global-settings) controls
 
 ## Need More Help?
 
-- Read detailed guides for [Individual Section Types](../section-types/)
+- Read detailed guides for [Individual Section Types](../section-types/hero-sections)
 - Check [Troubleshooting Guide](../administration/troubleshooting)
 - Review [FAQ](../reference/faq) for common questions
 

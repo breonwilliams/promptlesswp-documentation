@@ -439,7 +439,7 @@ Now that you understand stats sections:
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/) for number styling and colors
+- Check [Design System](../design-system/global-settings) for number styling and colors
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: Stats should tell a story about your success and reliability. Choose numbers that matter to your visitors, not just numbers that make you look good!

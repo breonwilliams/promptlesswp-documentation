@@ -467,7 +467,7 @@ Now that you understand features sections:
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/) for consistent styling
+- Check [Design System](../design-system/global-settings) for consistent styling
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: Features sections should answer "What's in it for me?" from your visitor's perspective. Focus on benefits, not just features!

@@ -486,7 +486,7 @@ Now that you understand testimonials sections:
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/) for styling testimonials
+- Check [Design System](../design-system/global-settings) for styling testimonials
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: The best testimonials tell specific stories about real problems solved and genuine benefits received. Let your customers' authentic voices do the selling for you!

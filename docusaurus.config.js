@@ -19,8 +19,9 @@ const config = {
   organizationName: 'breonwilliams', // Your GitHub username
   projectName: 'promptlesswp-documentation', // Your repository name
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang

@@ -350,7 +350,7 @@ document.addEventListener('click', function(e) {
 Now that you understand SEO and analytics:
 
 1. **Set up tracking** for your section-based content
-2. **Review** [Administration & Troubleshooting](../administration/) for site management
+2. **Review** [Administration & Troubleshooting](../administration/plugin-settings) for site management
 3. **Implement** regular SEO monitoring and optimization routines
 4. **Monitor performance** and adjust content based on data
 

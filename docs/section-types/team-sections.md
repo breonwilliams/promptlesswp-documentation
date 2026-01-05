@@ -531,7 +531,7 @@ Now that you understand team sections:
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/) for team section styling
+- Check [Design System](../design-system/global-settings) for team section styling
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: Team sections should make your business feel human and trustworthy. Show the real people behind the company and let their expertise and personality shine through!

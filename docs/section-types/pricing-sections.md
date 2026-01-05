@@ -592,7 +592,7 @@ Now that you understand pricing sections:
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/) for pricing section styling
+- Check [Design System](../design-system/global-settings) for pricing section styling
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: Effective pricing sections don't just show prices - they communicate value, reduce risk, and guide visitors toward the best choice for their needs. Focus on making the buying decision as easy and confident as possible!

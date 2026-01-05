@@ -292,13 +292,13 @@ Yes! In WordPress page editor, click "Edit" next to "Publish immediately" and se
 Now that you understand preview and publishing:
 
 1. **Practice** with test pages before building important ones
-2. **Learn** about [Section Types](../section-types/) for better content
-3. **Explore** [AI Features](../ai-features/) to speed up content creation  
-4. **Master** the [Design System](../design-system/) for professional styling
+2. **Learn** about [Section Types](../section-types/hero-sections) for better content
+3. **Explore** [AI Features](../ai-features/ai-overview) to speed up content creation  
+4. **Master** the [Design System](../design-system/global-settings) for professional styling
 
 ## Need More Help?
 
-- Review [WordPress Integration](../wordpress-integration/) guide
+- Review [WordPress Integration](../wordpress-integration/working-with-themes) guide
 - Check [Troubleshooting](../administration/troubleshooting) for technical issues
 - Read [FAQ](../reference/faq) for common questions
 

@@ -434,7 +434,7 @@ After setting up your global design system:
 
 ## Need More Help?
 
-- Check [Design System overview](../design-system/) for related guides
+- Check [Design System overview](../design-system/global-settings) for related guides
 - Review [FAQ](../reference/faq) for common questions
 - Read [Troubleshooting](../administration/troubleshooting) for technical issues
 

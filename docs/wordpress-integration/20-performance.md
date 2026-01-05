@@ -297,7 +297,7 @@ Now that you understand performance optimization:
 
 1. **Run performance tests** on your current site to establish baseline
 2. **Implement recommended optimizations** starting with highest-impact items
-3. **Learn** about [Advanced Features](../advanced-features/) for enhanced functionality
+3. **Learn** about [Advanced Features](../advanced-features/seo-analytics) for enhanced functionality
 4. **Monitor performance regularly** as you add content
 
 ## Need More Help?

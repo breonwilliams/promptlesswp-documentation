@@ -510,7 +510,7 @@ Now that you understand post grid sections:
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/) for post grid styling
+- Check [Design System](../design-system/global-settings) for post grid styling
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: Post grid sections are only as good as the content they display. Invest in creating valuable, engaging blog posts with great featured images, and your post grid will become a powerful tool for keeping visitors engaged with your website!

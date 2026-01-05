@@ -541,8 +541,8 @@ If AI features aren't working:
 If you're having ongoing AI issues:
 
 1. **Master manual section building** as backup skill
-2. **Learn about [Design System](../design-system/)** for customization
-3. **Check [Administration](../administration/)** guides for system optimization
+2. **Learn about [Design System](../design-system/global-settings)** for customization
+3. **Check [Administration](../administration/plugin-settings)** guides for system optimization
 4. **Review [FAQ](../reference/faq)** for additional answers
 
 ## Need More Help?
