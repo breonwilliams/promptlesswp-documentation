@@ -302,8 +302,8 @@ Now that you understand performance optimization:
 
 ## Need More Help?
 
-- Review [Working with Themes](17-working-with-themes) for theme-specific performance tips
-- Check [Database Integration](19-database-integration) for database optimization
+- Review [Working with Themes](working-with-themes) for theme-specific performance tips
+- Check [Database Integration](database-integration) for database optimization
 - Contact your hosting provider for server-level performance optimization
 - Read [FAQ](../reference/faq) for common performance questions
 

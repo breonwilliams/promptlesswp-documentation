@@ -357,8 +357,8 @@ Many sections offer **grid layout controls**:
 Now that you understand spacing and layout:
 
 1. **Review** your current page layout for effectiveness and flow
-2. **Learn** about [Theme Variants](16-theme-variants) for mood and atmosphere
-3. **Explore** [Colors & Branding](13-colors-branding) to complement your layout choices
+2. **Learn** about [Theme Variants](theme-variants) for mood and atmosphere
+3. **Explore** [Colors & Branding](colors-branding) to complement your layout choices
 4. **Practice** with [Working with Sections](../editor-guide/working-with-sections)
 
 ## Need More Help?

@@ -337,13 +337,13 @@ Border: #d1fae5 (Green Border)
 Now that you understand colors and branding:
 
 1. **Define** your brand color palette based on your business goals
-2. **Learn** about [Typography](14-typography) to complement your colors
-3. **Explore** [Spacing & Layout](15-spacing-layout) for structure
-4. **Review** [Theme Variants](16-theme-variants) for mood and tone
+2. **Learn** about [Typography](typography) to complement your colors
+3. **Explore** [Spacing & Layout](spacing-layout) for structure
+4. **Review** [Theme Variants](theme-variants) for mood and tone
 
 ## Need More Help?
 
-- Review [Global Settings](12-global-settings) for setting up your colors
+- Review [Global Settings](global-settings) for setting up your colors
 - Check [Working with Sections](../editor-guide/working-with-sections) to see colors in action
 - Read [FAQ](../reference/faq) for common color questions
 

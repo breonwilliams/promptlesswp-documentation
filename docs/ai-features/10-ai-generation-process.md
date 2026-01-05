@@ -28,7 +28,7 @@ The modal first checks if AI is properly configured:
 - **Red X or warning** - Need to configure API settings
 - **Yellow warning** - Limited functionality available
 
-If you see warnings, visit [AI Settings](../administration/ai-settings) to configure your OpenAI API key.
+If you see warnings, visit [AI Settings](../administration/plugin-settings) to configure your OpenAI API key.
 
 [Screenshot: AI modal opening with status check]
 
@@ -366,12 +366,12 @@ After mastering the AI generation process:
 1. **Experiment** with different content types and formats
 2. **Learn** advanced [Design System](../design-system/) features for customization
 3. **Explore** manual section building for unique elements
-4. **Check** [AI Troubleshooting](11-ai-troubleshooting) for specific issues
+4. **Check** [AI Troubleshooting](ai-troubleshooting) for specific issues
 
 ## Need More Help?
 
-- Read [AI Troubleshooting](11-ai-troubleshooting) for specific problems
-- Check [AI Settings](../administration/ai-settings) for configuration help
+- Read [AI Troubleshooting](ai-troubleshooting) for specific problems
+- Check [AI Settings](../administration/plugin-settings) for configuration help
 - Review [FAQ](../reference/faq) for common questions
 
 Remember: AI generation is a starting point, not a final destination. The best results come from combining AI efficiency with human creativity and customization!

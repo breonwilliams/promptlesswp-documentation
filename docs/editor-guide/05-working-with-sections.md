@@ -341,7 +341,7 @@ Many sections use repeater fields for items like testimonials, features, or team
 Now that you know how to work with sections:
 
 1. **Explore** each [Section Type](../section-types/) in detail
-2. **Learn** about [Preview & Publishing](06-preview-publishing)
+2. **Learn** about [Preview & Publishing](preview-publishing)
 3. **Try** the [AI Features](../ai-features/) to generate content faster
 4. **Experiment** with [Design System](../design-system/) controls
 

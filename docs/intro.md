@@ -30,15 +30,15 @@ Promptless WP is a visual page builder for WordPress that allows you to:
 
 ### Section Types
 - [Hero](section-types/hero-sections)
-- [Features](section-types/features)
+- [Features](section-types/features-sections)
 - [Stats](section-types/stats-sections)
-- [Testimonials](section-types/testimonials)
-- [FAQ](section-types/faq)
+- [Testimonials](section-types/testimonials-sections)
+- [FAQ](section-types/faq-sections)
 - [Team](section-types/team-sections)
-- [Pricing](section-types/pricing)
-- [Steps](section-types/steps)
-- [Post Grid](section-types/post-grid)
-- [Checklist](section-types/checklist)
+- [Pricing](section-types/pricing-sections)
+- [Steps](section-types/steps-sections)
+- [Post Grid](section-types/postgrid-sections)
+- [Checklist](section-types/checklist-sections)
 
 ### AI Features
 - [AI Overview](ai-features/ai-overview)
@@ -50,12 +50,12 @@ Promptless WP is a visual page builder for WordPress that allows you to:
 - [Global Settings](design-system/global-settings)
 - [Colors & Branding](design-system/colors-branding)
 - [Typography](design-system/typography)
-- [Styling Options](design-system/styling-options)
+- [Styling Options](design-system/spacing-layout)
 
 ### WordPress Integration
-- [Display Modes](wordpress-integration/display-modes)
+- [Display Modes](wordpress-integration/working-with-themes)
 - [Working with Themes](wordpress-integration/working-with-themes)
-- [Cache Management](wordpress-integration/cache-management)
+- [Cache Management](wordpress-integration/performance)
 
 ### Administration
 - [Plugin Settings](administration/plugin-settings)
@@ -65,7 +65,7 @@ Promptless WP is a visual page builder for WordPress that allows you to:
 
 ### Reference
 - [FAQ](reference/faq)
-- [System Requirements](reference/system-requirements)
+- [System Requirements](reference/troubleshooting)
 - [Changelog](reference/changelog)
 
 ## Support

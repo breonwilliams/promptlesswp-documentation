@@ -421,13 +421,13 @@ Your fonts automatically adapt to different screen sizes:
 Now that you understand typography:
 
 1. **Choose** fonts that align with your brand personality and content needs
-2. **Learn** about [Spacing & Layout](15-spacing-layout) to structure your content
-3. **Explore** [Theme Variants](16-theme-variants) for different moods and contexts
-4. **Review** [Colors & Branding](13-colors-branding) to ensure fonts work with your colors
+2. **Learn** about [Spacing & Layout](spacing-layout) to structure your content
+3. **Explore** [Theme Variants](theme-variants) for different moods and contexts
+4. **Review** [Colors & Branding](colors-branding) to ensure fonts work with your colors
 
 ## Need More Help?
 
-- Review [Global Settings](12-global-settings) for setting up your fonts
+- Review [Global Settings](global-settings) for setting up your fonts
 - Check [Working with Sections](../editor-guide/working-with-sections) to see typography in action
 - Read [FAQ](../reference/faq) for common typography questions
 

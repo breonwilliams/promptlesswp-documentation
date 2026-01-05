@@ -141,7 +141,7 @@ To use AI features you need:
 - **Content to process** - Document or text to transform
 
 ### First Steps
-1. **Get an API key** (see [AI Settings guide](../administration/ai-settings))
+1. **Get an API key** (see [AI Settings guide](../administration/plugin-settings))
 2. **Test with small content** - Try a simple document first
 3. **Learn the patterns** - See how AI structures different content types
 4. **Experiment** - Try different content types and styles
@@ -197,15 +197,15 @@ The AI features continue to improve:
 
 Ready to try AI features?
 
-1. **Set up AI** with the [AI Settings guide](../administration/ai-settings)
-2. **Learn document upload** with [Document Upload guide](09-document-upload)
-3. **Follow the process** with [AI Generation guide](10-ai-generation-process)
-4. **Troubleshoot issues** with [AI Troubleshooting guide](11-ai-troubleshooting)
+1. **Set up AI** with the [AI Settings guide](../administration/plugin-settings)
+2. **Learn document upload** with [Document Upload guide](document-upload)
+3. **Follow the process** with [AI Generation guide](ai-generation-process)
+4. **Troubleshoot issues** with [AI Troubleshooting guide](ai-troubleshooting)
 
 ## Need More Help?
 
-- Check [AI Settings](../administration/ai-settings) for setup help
-- Review [AI Troubleshooting](11-ai-troubleshooting) for common issues
+- Check [AI Settings](../administration/plugin-settings) for setup help
+- Review [AI Troubleshooting](ai-troubleshooting) for common issues
 - Read [FAQ](../reference/faq) for general questions
 
 The AI features are designed to save you time while maintaining professional quality - think of them as your intelligent assistant for web design!

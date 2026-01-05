@@ -282,15 +282,15 @@ If document upload isn't working, you can paste text instead:
 
 After uploading your document:
 
-1. **Follow the [AI Generation Process](10-ai-generation-process)** guide
+1. **Follow the [AI Generation Process](ai-generation-process)** guide
 2. **Learn to refine results** with editing techniques
 3. **Try different content types** to see what works best
-4. **Check [AI Troubleshooting](11-ai-troubleshooting)** if you encounter issues
+4. **Check [AI Troubleshooting](ai-troubleshooting)** if you encounter issues
 
 ## Need More Help?
 
-- Review [AI Overview](08-ai-overview) for general AI understanding
-- Check [AI Troubleshooting](11-ai-troubleshooting) for upload issues
+- Review [AI Overview](ai-overview) for general AI understanding
+- Check [AI Troubleshooting](ai-troubleshooting) for upload issues
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: good input leads to great output - spend time preparing your document for best AI results!

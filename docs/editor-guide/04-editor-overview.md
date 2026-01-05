@@ -318,15 +318,15 @@ Power users can work faster with shortcuts:
 
 Now that you understand the editor:
 
-1. **Practice** with the [Working with Sections](05-working-with-sections) guide
-2. **Learn** about [Preview & Publishing](06-preview-publishing)
+1. **Practice** with the [Working with Sections](working-with-sections) guide
+2. **Learn** about [Preview & Publishing](preview-publishing)
 3. **Explore** different [Section Types](../section-types/)
 4. **Try** the [AI Features](../ai-features/) for faster content creation
 
 ## Need More Help?
 
 - Check [Troubleshooting Guide](../administration/troubleshooting) for technical issues
-- Review [Keyboard Shortcuts](../reference/keyboard-shortcuts) for efficiency tips
+- Review [Keyboard Shortcuts](../reference/faq) for efficiency tips
 - Read [FAQ](../reference/faq) for common questions
 
 The editor is designed to be intuitive, but don't hesitate to experiment - you can always undo changes or preview before publishing!

@@ -348,12 +348,12 @@ Now that you understand theme variants:
 
 1. **Review** your current content and consider which sections would benefit from theme changes
 2. **Practice** switching themes in [Working with Sections](../editor-guide/working-with-sections)
-3. **Combine** with [Colors & Branding](13-colors-branding) knowledge for complete design control
+3. **Combine** with [Colors & Branding](colors-branding) knowledge for complete design control
 4. **Test** different theme combinations with your actual content
 
 ## Need More Help?
 
-- Review [Global Settings](12-global-settings) for configuring theme colors
+- Review [Global Settings](global-settings) for configuring theme colors
 - Practice with [Working with Sections](../editor-guide/working-with-sections)
 - Check [Preview and Publishing](../editor-guide/preview-publishing) to test theme effectiveness
 - Read [FAQ](../reference/faq) for common theme questions

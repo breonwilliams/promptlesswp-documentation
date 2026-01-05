@@ -547,8 +547,8 @@ If you're having ongoing AI issues:
 
 ## Need More Help?
 
-- Check [AI Settings](../administration/ai-settings) for configuration help
-- Review [System Requirements](../administration/system-requirements)
+- Check [AI Settings](../administration/plugin-settings) for configuration help
+- Review [System Requirements](../administration/troubleshooting)
 - Read [FAQ](../reference/faq) for common questions
 
 Remember: AI is a powerful tool when it works, but manual building is always available as a reliable alternative!

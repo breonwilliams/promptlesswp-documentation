@@ -299,14 +299,14 @@ add_filter('aisb_render_section_data', 'custom_render_modifications');
 Now that you understand custom fields integration:
 
 1. **Practice** editing section content and observe how it integrates with WordPress
-2. **Learn** about [Database Integration](19-database-integration) for deeper technical understanding  
-3. **Explore** [Performance Optimization](20-performance) for faster loading
+2. **Learn** about [Database Integration](database-integration) for deeper technical understanding  
+3. **Explore** [Performance Optimization](performance) for faster loading
 4. **Review** your backup strategy to ensure section content is protected
 
 ## Need More Help?
 
 - Review [Working with Sections](../editor-guide/working-with-sections) to practice content management
-- Check [WordPress Integration Overview](17-working-with-themes) for broader integration topics
+- Check [WordPress Integration Overview](working-with-themes) for broader integration topics
 - Contact support for specific integration questions with other plugins
 - Read [FAQ](../reference/faq) for common custom field questions
 

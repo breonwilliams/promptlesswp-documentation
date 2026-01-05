@@ -351,7 +351,7 @@ Now that you understand system requirements:
 
 1. **Verify** your current system meets all requirements
 2. **Upgrade** any components that don't meet specifications
-3. **Review** [FAQ](30-faq) for common questions
+3. **Review** [FAQ](faq) for common questions
 4. **Test** the plugin in a staging environment before production use
 
 ## Need More Help?

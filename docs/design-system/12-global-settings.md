@@ -427,10 +427,10 @@ Verify your global settings maintain accessibility:
 
 After setting up your global design system:
 
-1. **Learn about [Colors & Branding](13-colors-branding)** for deeper color control
-2. **Explore [Typography](14-typography)** for advanced font techniques
-3. **Master [Styling Options](styling-options)** for fine-tuned control
-4. **Understand [Responsive Design](responsive-design)** for all devices
+1. **Learn about [Colors & Branding](colors-branding)** for deeper color control
+2. **Explore [Typography](typography)** for advanced font techniques
+3. **Master [Styling Options](spacing-layout)** for fine-tuned control
+4. **Understand [Responsive Design](theme-variants)** for all devices
 
 ## Need More Help?
 

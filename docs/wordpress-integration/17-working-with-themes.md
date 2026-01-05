@@ -359,9 +359,9 @@ AI Section Builder offers three professional display modes for maximum flexibili
 Now that you understand theme integration:
 
 1. **Configure** your page layouts for optimal section display
-2. **Learn** about [Custom Fields Integration](18-custom-fields) for advanced functionality
-3. **Explore** [Database Integration](19-database-integration) to understand data storage
-4. **Review** [Performance Optimization](20-performance) for faster loading
+2. **Learn** about [Custom Fields Integration](custom-fields) for advanced functionality
+3. **Explore** [Database Integration](database-integration) to understand data storage
+4. **Review** [Performance Optimization](performance) for faster loading
 
 ## Need More Help?
 
