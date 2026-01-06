@@ -101,5 +101,5 @@ This opens the visual page builder where you'll add sections and content.
 
 ## Need Help?
 
-For installation issues: support@promptlesswp.com
+For installation issues: contact@promptlesswp.com
 

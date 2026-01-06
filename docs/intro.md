@@ -70,7 +70,7 @@ Promptless WP is a visual page builder for WordPress that allows you to:
 
 ## Support
 
-For help: support@promptlesswp.com
+For help: contact@promptlesswp.com
 
 ## Version
 

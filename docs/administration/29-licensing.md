@@ -162,5 +162,5 @@ The main limitation is 2 pages maximum. All section types and editing features w
 
 For licensing questions:
 - **Sales**: sales@promptlesswp.com
-- **Support**: support@promptlesswp.com
+- **Support**: contact@promptlesswp.com
 - **Website**: https://promptlesswp.com

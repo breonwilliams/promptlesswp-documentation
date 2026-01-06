@@ -56,7 +56,7 @@ User guide for Promptless WP - WordPress page builder with AI content generation
 
 ## Support
 
-For help: support@promptlesswp.com
+For help: contact@promptlesswp.com
 
 ## Version
 

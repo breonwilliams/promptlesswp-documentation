@@ -31,5 +31,5 @@ Plugin uses standard WordPress capabilities only.
 
 ## Need Help?
 
-For permission issues: support@promptlesswp.com
+For permission issues: contact@promptlesswp.com
 

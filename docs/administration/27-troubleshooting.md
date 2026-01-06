@@ -21,7 +21,7 @@ Common issues and fixes for Promptless WP.
 3. Clear cache plugins
 4. Test with default WordPress theme
 
-If issue persists: support@promptlesswp.com
+If issue persists: contact@promptlesswp.com
 
 ## Editor Not Loading
 
@@ -33,7 +33,7 @@ If issue persists: support@promptlesswp.com
 3. Deactivate other plugins temporarily
 4. Increase PHP memory to 256MB
 
-If JavaScript errors appear: support@promptlesswp.com
+If JavaScript errors appear: contact@promptlesswp.com
 
 ## AI Not Working
 
@@ -47,7 +47,7 @@ If JavaScript errors appear: support@promptlesswp.com
 - Wait for limit reset
 - Add payment method at OpenAI
 
-For other AI errors: support@promptlesswp.com
+For other AI errors: contact@promptlesswp.com
 
 ## Performance Issues
 
@@ -88,7 +88,7 @@ For other AI errors: support@promptlesswp.com
 - Use JPG, PNG, or WebP
 - Convert other formats first
 
-For server config issues: support@promptlesswp.com
+For server config issues: contact@promptlesswp.com
 
 ## Plugin Conflicts
 
@@ -157,7 +157,7 @@ For server config issues: support@promptlesswp.com
 4. Clear all caches
 
 **Contact Support**:
-support@promptlesswp.com
+contact@promptlesswp.com
 
 **Include**:
 - Error description

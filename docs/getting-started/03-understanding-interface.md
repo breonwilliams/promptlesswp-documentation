@@ -202,5 +202,5 @@ Changes to content save automatically to the page. Global design settings need t
 
 ## Need Help?
 
-For interface issues: support@promptlesswp.com
+For interface issues: contact@promptlesswp.com
 

@@ -78,10 +78,10 @@ Changes apply to all sections.
 - Check user permissions
 - Clear browser cache
 
-For other issues: support@promptlesswp.com
+For other issues: contact@promptlesswp.com
 
 
 ## Need Help?
 
-For settings issues: support@promptlesswp.com
+For settings issues: contact@promptlesswp.com
 
