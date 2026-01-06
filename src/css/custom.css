@@ -204,6 +204,11 @@ main[class*="docMainContainer"] article {
   padding: var(--space-8) var(--space-8) var(--space-12) !important;
 }
 
+/* Remove container padding on category pages */
+.container.padding-top--md.padding-bottom--lg {
+  padding: 0 !important;
+}
+
 /* Remove extra margin from nested article wrapper in category pages */
 article.margin-top--lg {
   margin-top: 0 !important;
@@ -400,6 +405,31 @@ button[class*="ColorModeToggle"] {
   overflow-y: auto;
 }
 
+/* Desktop sidebar styles - only apply on desktop */
+@media (min-width: 997px) {
+  /* Target the actual Docusaurus sidebar class */
+  [class*="sidebar_"] {
+    width: var(--sidebar-width) !important;
+  }
+
+  /* Ensure the desktop sidebar menu has proper padding */
+  .theme-doc-sidebar-container .menu.thin-scrollbar {
+    padding: var(--space-3) !important;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* Remove extra padding from sidebar on desktop */
+  .theme-doc-sidebar-container .thin-scrollbar {
+    padding: 0 !important;
+    overflow-x: hidden !important;
+  }
+  
+  .theme-doc-sidebar-container .menu {
+    padding-top: 0 !important;
+  }
+}
+
 .theme-doc-sidebar-menu {
   padding: var(--space-2);
   width: 100%;
@@ -412,18 +442,16 @@ button[class*="ColorModeToggle"] {
   padding-top: 0 !important;
 }
 
-.thin-scrollbar {
-  padding: 0 !important;
-  overflow-x: hidden !important;
-}
-
-.menu {
-  padding-top: 0 !important;
-}
-
 /* Menu structure */
 .menu__list {
   list-style: none;
+}
+
+/* Only add padding-right on desktop sidebar */
+@media (min-width: 997px) {
+  .theme-doc-sidebar-container .menu__list {
+    padding-right: var(--space-2) !important; /* Add padding to list to prevent flush edges */
+  }
 }
 
 .menu__list-item {
@@ -435,7 +463,8 @@ button[class*="ColorModeToggle"] {
   display: flex;
   align-items: center;
   padding: var(--space-2) var(--space-3);
-  margin: 0 var(--space-2) !important; /* Add margin on both sides - important for production */
+  margin-left: var(--space-2) !important;
+  margin-right: var(--space-2) !important;
   box-sizing: border-box;
   color: var(--color-text-muted);
   border-radius: var(--radius-sm);
@@ -970,13 +999,22 @@ h4:hover .hash-link {
    Responsive Design
    ============================================ */
 @media (max-width: 996px) {
-  /* Mobile layout adjustments - increased padding for better readability */
+  /* Mobile layout adjustments - optimized padding */
   article {
-    padding: var(--space-6) var(--space-6) !important;
+    padding: var(--space-5) var(--space-5) var(--space-6) !important;
   }
 
-  .generated-index-page {
-    padding: var(--space-6) var(--space-6) !important;
+  /* Remove Docusaurus utility padding on mobile */
+  .container.padding-top--md.padding-bottom--lg {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
+  /* Category pages need their own padding */
+  [class*="generatedIndexPage"] {
+    padding: var(--space-5) var(--space-5) var(--space-6) !important;
   }
 
   .navbar {
@@ -1011,14 +1049,22 @@ h4:hover .hash-link {
   background: var(--color-bg-surface) !important;
 }
 
-.navbar-sidebar__items {
+/* Ensure mobile menu items are visible */
+.navbar-sidebar .menu {
   padding: var(--space-4) !important;
+  display: block !important;
+}
+
+.navbar-sidebar .menu__list {
+  display: block !important;
+  padding: 0 !important;
 }
 
 /* Ensure mobile sidebar menu items have proper spacing */
 .navbar-sidebar .menu__link {
-  margin: 0 var(--space-2) !important;
+  margin: var(--space-1) 0 !important;
   padding: var(--space-2) var(--space-3) !important;
+  display: flex !important;
 }
 
 /* Fix navbar z-index to stay below mobile sidebar */
