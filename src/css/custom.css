@@ -435,8 +435,7 @@ button[class*="ColorModeToggle"] {
   display: flex;
   align-items: center;
   padding: var(--space-2) var(--space-3);
-  margin: 0 var(--space-2); /* Add margin on both sides */
-  max-width: calc(100% - var(--space-4)); /* Prevent overflow */
+  margin: 0 var(--space-2) !important; /* Add margin on both sides - important for production */
   box-sizing: border-box;
   color: var(--color-text-muted);
   border-radius: var(--radius-sm);
@@ -971,13 +970,13 @@ h4:hover .hash-link {
    Responsive Design
    ============================================ */
 @media (max-width: 996px) {
-  /* Mobile layout adjustments */
+  /* Mobile layout adjustments - increased padding for better readability */
   article {
-    padding: var(--space-6) var(--space-4);
+    padding: var(--space-6) var(--space-6) !important;
   }
 
   .generated-index-page {
-    padding: var(--space-6) var(--space-4);
+    padding: var(--space-6) var(--space-6) !important;
   }
 
   .navbar {
@@ -992,6 +991,45 @@ h4:hover .hash-link {
   /* Show mobile menu toggle */
   .navbar__toggle {
     display: block;
+  }
+}
+
+/* ============================================
+   Mobile Sidebar/Drawer Styles
+   ============================================ */
+.navbar-sidebar {
+  background: var(--color-bg-surface) !important;
+  z-index: calc(var(--z-modal) + 10) !important;
+}
+
+.navbar-sidebar__backdrop {
+  z-index: calc(var(--z-modal) + 5) !important;
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.navbar-sidebar__content {
+  background: var(--color-bg-surface) !important;
+}
+
+.navbar-sidebar__items {
+  padding: var(--space-4) !important;
+}
+
+/* Ensure mobile sidebar menu items have proper spacing */
+.navbar-sidebar .menu__link {
+  margin: 0 var(--space-2) !important;
+  padding: var(--space-2) var(--space-3) !important;
+}
+
+/* Fix navbar z-index to stay below mobile sidebar */
+@media (max-width: 996px) {
+  .navbar {
+    z-index: var(--z-sticky) !important;
+  }
+  
+  /* Ensure the mobile sidebar appears above everything */
+  .navbar-sidebar--show {
+    z-index: calc(var(--z-modal) + 10) !important;
   }
 }
 
