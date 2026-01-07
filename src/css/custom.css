@@ -184,9 +184,6 @@ article {
   padding: 0 !important;
 }
 
-.container.padding-top--md.padding-bottom--lg {
-  padding: var(--space-8) var(--space-8) var(--space-12) !important;
-}
 
 main[class*="docMainContainer"] article {
   padding: var(--space-8) var(--space-8) var(--space-12) !important;
@@ -204,10 +201,6 @@ main[class*="docMainContainer"] article {
   padding: var(--space-8) var(--space-8) var(--space-12) !important;
 }
 
-/* Remove container padding on category pages */
-.container.padding-top--md.padding-bottom--lg {
-  padding: 0 !important;
-}
 
 /* Remove extra margin from nested article wrapper in category pages */
 article.margin-top--lg {
@@ -879,6 +872,7 @@ article[class*="generatedIndexPage"] > p:first-of-type {
    ============================================ */
 .pagination-nav {
   margin-top: var(--space-12);
+  margin-bottom: var(--space-8); /* Add bottom margin from footer */
   padding-top: var(--space-6);
   border-top: 1px solid var(--color-border);
   display: grid;
@@ -1004,12 +998,9 @@ h4:hover .hash-link {
     padding: var(--space-5) var(--space-5) var(--space-6) !important;
   }
 
-  /* Remove Docusaurus utility padding on mobile */
+  /* Adjust container padding on mobile */
   .container.padding-top--md.padding-bottom--lg {
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding: var(--space-5) var(--space-5) var(--space-6) !important;
   }
   
   /* Category pages need their own padding */
@@ -1029,6 +1020,31 @@ h4:hover .hash-link {
   /* Show mobile menu toggle */
   .navbar__toggle {
     display: block;
+  }
+  
+  /* Fix horizontal scroll caused by Docusaurus row negative margins */
+  .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  
+  /* Reset column padding to prevent content overflow */
+  .col, 
+  [class*="col-"],
+  .col--3,
+  .docItemCol_VOVn {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
+  /* Ensure main content wrapper doesn't overflow */
+  .container {
+    overflow-x: hidden !important;
+  }
+  
+  /* Additional safety for doc item containers */
+  .docItemContainer_Djhp {
+    overflow-x: hidden !important;
   }
 }
 
@@ -1098,9 +1114,18 @@ h4:hover .hash-link {
   max-width: 100%;
 }
 
-.container.padding-top--md.padding-bottom--lg {
-  padding: var(--space-8) var(--space-8) var(--space-12);
+/* Fix main content container - compensate for row negative margins */
+.docMainContainer_gTbr .container {
+  /* Add padding to compensate for row negative margins */
+  padding-left: var(--ifm-spacing-horizontal) !important;
+  padding-right: var(--ifm-spacing-horizontal) !important;
 }
+
+/* Ensure proper padding for doc containers */
+.container.padding-top--md.padding-bottom--lg {
+  padding: var(--space-8) var(--space-4) var(--space-12) var(--space-4) !important;
+}
+
 
 /* DocItem container fixes */
 .docItemContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Layout-styles-module {
