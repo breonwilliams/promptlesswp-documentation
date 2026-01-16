@@ -74,6 +74,6 @@ For help: contact@promptlesswp.com
 
 ## Version
 
-Documentation for Promptless WP v1.0.5
+Documentation for Promptless WP v1.0.8
 
 Last updated: January 2025

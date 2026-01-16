@@ -242,6 +242,44 @@ A bold, high-contrast design style featuring:
 
 ## Advanced Features
 
+### Heading Highlight Feature
+
+The heading highlight feature allows you to emphasize specific words in your headings by displaying them in your primary brand color. This creates visual interest and draws attention to key messages.
+
+**How to Use**:
+Wrap any text in curly braces `{}` to highlight it in your primary color:
+
+```
+We Build {Amazing} Websites
+Your {Complete} Marketing Solution
+Trusted by {500+} Companies
+```
+
+**Where It Works**:
+- All section main headings
+- Hero section headlines
+- Feature card titles
+- Any heading field across section types
+
+**Styling**:
+- Highlighted text uses your **Primary Color** from global settings
+- Maintains the same font weight and size as surrounding text
+- Works in both light and dark theme variants
+- Automatically adjusts for accessibility contrast
+
+**Best Practices**:
+- Highlight **one key word** per heading for maximum impact
+- Use for **action words** ("Get", "Build", "Transform")
+- Use for **numbers** or **statistics** ("500+", "24/7", "100%")
+- Use for **brand differentiators** ("Free", "Guaranteed", "Premium")
+- Avoid highlighting entire sentences or multiple phrases
+
+**Examples**:
+- ✅ "We Make {Impossible} Possible" - Single impactful word
+- ✅ "Get Results in {7 Days}" - Highlighting a key number
+- ❌ "{We Make Impossible Possible}" - Too much highlighted
+- ❌ "We {Make} the {Impossible} {Possible}" - Too many highlights
+
 ### Smart Accessibility Colors
 
 **What It Does**

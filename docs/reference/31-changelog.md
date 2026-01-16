@@ -2,6 +2,90 @@
 
 This changelog documents all notable changes to Promptless WP, including new features, improvements, bug fixes, and breaking changes. We follow [Semantic Versioning](https://semver.org/) for version numbering.
 
+## Version 1.0.8 - 2025-01-15
+
+### ✨ New Features
+
+**Lock System for Concurrent Editing**
+- Added visual lock status indicator in the editor toolbar
+- Green lock icon: You have exclusive editing access
+- Yellow lock icon: Another user is currently editing this page
+- Red lock icon: Your session has expired or connection lost
+- Warning banner displays when someone else is editing
+- Automatic session management prevents content conflicts
+
+**Heading Highlight Feature**
+- Wrap text in `{curly braces}` to highlight in your primary brand color
+- Works in all heading fields across section types
+- Example: "We Build {Amazing} Websites" highlights "Amazing"
+
+**Showcase Layout for Features**
+- New optimized layout variant for landing pages
+- Enhanced visual presentation for key features
+- Better suited for marketing and conversion-focused pages
+
+**FAQ Accordion Improvements**
+- Only one FAQ answer open at a time (improved UX)
+- Smoother accordion animations
+- Better mobile touch interaction
+
+### 🎯 Improvements
+
+**Accessibility Enhancements**
+- Improved keyboard navigation throughout the editor
+- Better screen reader support for all interactive elements
+- Enhanced focus indicators for accessibility compliance
+- ARIA labels added to all toolbar buttons
+
+---
+
+## Version 1.0.7 - 2025-01-10
+
+### ✨ New Features
+
+**Expanded Color Palette System**
+- Added 30 new professionally designed color palettes
+- Palettes organized by industry and mood
+- One-click application of complete color schemes
+- Preview palettes before applying
+
+**Button Positioning Controls**
+- New alignment options for section buttons
+- Left, center, and right positioning available
+- Consistent button placement across all section types
+
+### 🔧 Bug Fixes
+
+- Fixed color palette preview not updating in real-time
+- Resolved button alignment issues on mobile devices
+- Corrected spacing inconsistencies in dark mode
+
+---
+
+## Version 1.0.6 - 2025-01-05
+
+### ✨ New Features
+
+**Video Poster Image Support**
+- Add custom poster images to video backgrounds
+- Improves perceived loading performance
+- Better thumbnail display before video plays
+
+### 📚 Documentation
+
+- Complete documentation overhaul with expanded guides
+- New troubleshooting section with common solutions
+- Improved section-specific documentation
+- Added keyboard shortcuts reference
+
+### 🔧 Bug Fixes
+
+- Fixed video autoplay issues on iOS Safari
+- Resolved poster image scaling on mobile devices
+- Corrected z-index issues with video overlays
+
+---
+
 ## Version 1.0.5 - 2024-12-29
 
 ### 🔧 Bug Fixes

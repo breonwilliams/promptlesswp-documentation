@@ -298,6 +298,18 @@ Ready to get started? **[Contact us today →](contact-link)**
 - **Smooth animations** for professional feel
 - **Mobile-friendly** touch targets
 
+**Accordion Behavior (New in v1.0.8)**
+The FAQ section now uses improved accordion behavior:
+- **One answer open at a time**: When you open a new question, the previously open answer automatically closes
+- **Cleaner reading experience**: Visitors focus on one answer without distraction
+- **Better mobile UX**: Reduces scrolling on small screens
+- **Smoother animations**: Improved transition effects when expanding/collapsing
+
+This behavior is automatic and applies to all FAQ sections. Visitors can:
+- Click any question to open its answer
+- Click the same question again to close it
+- Click a different question to close the current one and open the new one
+
 **Search and Filtering**
 - Not built-in but can be added with custom development
 - Helpful for sites with many FAQs

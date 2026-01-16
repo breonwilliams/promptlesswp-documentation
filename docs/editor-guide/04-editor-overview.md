@@ -75,6 +75,33 @@ The editor uses a three-panel layout designed for efficiency:
 - **Save Settings**: Save global design preferences
 - **Save Changes**: Save page content and structure
 
+### Lock Status Indicator
+
+The lock icon in the toolbar shows your editing access status for the current page. This system prevents conflicts when multiple users might try to edit the same page simultaneously.
+
+**Lock States**:
+- **🟢 Green Lock**: You have exclusive editing access. You can safely make and save changes.
+- **🟡 Yellow Lock**: Another user is currently editing this page. Your changes may conflict with theirs.
+- **🔴 Red Lock**: Your session has expired or connection was lost. Refresh the page to reconnect.
+
+**Warning Banner**:
+When another user is editing the page, a warning banner appears at the top of the editor:
+- Shows who is currently editing (if available)
+- Recommends waiting or coordinating with the other user
+- Provides option to take over editing (use with caution)
+
+**Session Management**:
+- Lock automatically acquired when you start editing
+- Lock released when you close the editor or navigate away
+- Sessions expire after period of inactivity
+- Refresh the page if your session expires to reacquire the lock
+
+**Best Practices**:
+- Always check the lock status before making major changes
+- Coordinate with team members when editing shared pages
+- Save frequently to avoid losing work if session expires
+- Close the editor when finished to release the lock for others
+
 [Screenshot: Toolbar with each button labeled and explained]
 
 ## Section Management System

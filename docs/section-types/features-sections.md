@@ -130,8 +130,38 @@ Each feature card contains:
 
 **Minimal Style**
 - **No visible card backgrounds** or borders
-- **Best for**: Clean, simple design aesthetic  
+- **Best for**: Clean, simple design aesthetic
 - **Appearance**: More integrated with page background
+
+### Showcase Layout
+
+**New in v1.0.8**: The Showcase layout is an optimized variant specifically designed for landing pages and marketing-focused content.
+
+**What Makes Showcase Different**:
+- **Enhanced visual hierarchy** with larger feature cards
+- **Optimized spacing** for conversion-focused pages
+- **Prominent icons/images** that draw more attention
+- **Better whitespace** distribution for readability
+
+**When to Use Showcase Layout**:
+- **Landing pages** where features need to make strong impact
+- **Product pages** highlighting key benefits
+- **Homepage sections** that need to stand out
+- **Marketing campaigns** requiring high-conversion design
+
+**How to Enable**:
+1. Select your Features section
+2. Go to the **Layout** tab
+3. Choose **Showcase** from the Layout Variant dropdown
+4. Preview updates immediately
+
+**Showcase vs Standard Layout**:
+| Aspect | Standard | Showcase |
+|--------|----------|----------|
+| Card size | Compact | Larger, more prominent |
+| Icon size | Standard | Enlarged for visibility |
+| Spacing | Balanced | Optimized for scanning |
+| Best for | Information pages | Conversion pages |
 
 [Screenshot: Different grid layouts and card styles]
 
