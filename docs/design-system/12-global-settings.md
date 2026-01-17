@@ -178,6 +178,40 @@ All light mode colors have dark mode equivalents:
 
 [Screenshot: Typography tab with font selection and upload interface]
 
+### Heading Highlight Feature (New in v1.0.8)
+
+**What It Does**
+Allows you to highlight portions of your headings in your primary brand color by wrapping text in curly braces.
+
+**How to Use**
+Wrap any text in curly braces to highlight it:
+- Type: `{Build Your Dream} Website Today`
+- Result: "Build Your Dream" appears in your primary brand color, "Website Today" in normal text color
+
+**Example Usage**
+```
+Input: "We Help You {Grow Faster} Than Ever"
+Display: "We Help You" (normal) + "Grow Faster" (highlighted in primary color) + "Than Ever" (normal)
+```
+
+**Where It Works**
+- All section heading fields (main headings)
+- Hero headlines
+- Feature headings
+- Any heading field in the editor
+
+**Best Practices**
+- **Highlight key words** that convey your main message or value proposition
+- **Use sparingly** - highlighting too much reduces impact
+- **Choose action words** or benefits to emphasize
+- **Keep highlighted portions short** (2-4 words work best)
+
+**Helper Text**
+All heading fields in the editor display helper text explaining this feature:
+> "Wrap text in {curly braces} to highlight it in your primary color"
+
+[Screenshot: Heading highlight example showing before and after]
+
 ## Styling Tab
 
 ### Border Radius Settings
@@ -241,44 +275,6 @@ A bold, high-contrast design style featuring:
 [Screenshot: Styling tab showing border radius and neo-brutalist options]
 
 ## Advanced Features
-
-### Heading Highlight Feature
-
-The heading highlight feature allows you to emphasize specific words in your headings by displaying them in your primary brand color. This creates visual interest and draws attention to key messages.
-
-**How to Use**:
-Wrap any text in curly braces `{}` to highlight it in your primary color:
-
-```
-We Build {Amazing} Websites
-Your {Complete} Marketing Solution
-Trusted by {500+} Companies
-```
-
-**Where It Works**:
-- All section main headings
-- Hero section headlines
-- Feature card titles
-- Any heading field across section types
-
-**Styling**:
-- Highlighted text uses your **Primary Color** from global settings
-- Maintains the same font weight and size as surrounding text
-- Works in both light and dark theme variants
-- Automatically adjusts for accessibility contrast
-
-**Best Practices**:
-- Highlight **one key word** per heading for maximum impact
-- Use for **action words** ("Get", "Build", "Transform")
-- Use for **numbers** or **statistics** ("500+", "24/7", "100%")
-- Use for **brand differentiators** ("Free", "Guaranteed", "Premium")
-- Avoid highlighting entire sentences or multiple phrases
-
-**Examples**:
-- ✅ "We Make {Impossible} Possible" - Single impactful word
-- ✅ "Get Results in {7 Days}" - Highlighting a key number
-- ❌ "{We Make Impossible Possible}" - Too much highlighted
-- ❌ "We {Make} the {Impossible} {Possible}" - Too many highlights
 
 ### Smart Accessibility Colors
 

@@ -6,36 +6,51 @@ This changelog documents all notable changes to Promptless WP, including new fea
 
 ### ✨ New Features
 
-**Lock System for Concurrent Editing**
-- Added visual lock status indicator in the editor toolbar
-- Green lock icon: You have exclusive editing access
-- Yellow lock icon: Another user is currently editing this page
-- Red lock icon: Your session has expired or connection lost
-- Warning banner displays when someone else is editing
-- Automatic session management prevents content conflicts
+**Multi-Admin Lock System**
+- Added concurrent editing protection to prevent multiple users from editing the same page simultaneously
+- Lock status indicator in toolbar shows real-time lock health (green = active, yellow = connection issues, red = unable to verify)
+- Warning banner appears when network connectivity issues are detected
+- Session expired modal prompts re-login when WordPress session times out
+- Lock lost modal notifies users when another admin takes over editing
+- Automatic lock release when browser is closed via sendBeacon
+- Background cron job cleans up orphaned locks twice daily
 
 **Heading Highlight Feature**
-- Wrap text in `{curly braces}` to highlight in your primary brand color
-- Works in all heading fields across section types
-- Example: "We Build {Amazing} Websites" highlights "Amazing"
+- Wrap text in curly braces `{like this}` to highlight portions of your headings
+- Highlighted text displays in your primary brand color
+- Helper text added to all heading fields explaining how to use the feature
 
-**Showcase Layout for Features**
-- New optimized layout variant for landing pages
-- Enhanced visual presentation for key features
-- Better suited for marketing and conversion-focused pages
-
-**FAQ Accordion Improvements**
-- Only one FAQ answer open at a time (improved UX)
-- Smoother accordion animations
-- Better mobile touch interaction
+**Features Section: Showcase Layout Variant**
+- New "Showcase" layout variant for Features sections
+- Optimized for highlighting key features with enhanced visual presentation
+- Links are now properly visible in the showcase layout
 
 ### 🎯 Improvements
 
+**Color Palette Reorganization**
+- Reorganized color presets into logical categories for easier selection
+- Improved preset modal organization and navigation
+
+**Preset Modal Active Indicator**
+- Both color and font preset modals now display a checkmark on the currently applied preset
+- Makes it easier to see which preset is currently in use when reopening modals
+
+**FAQ Accordion Behavior**
+- Accordions now open one at a time, automatically closing other open items
+- Provides cleaner, more focused user experience when browsing FAQs
+
 **Accessibility Enhancements**
-- Improved keyboard navigation throughout the editor
-- Better screen reader support for all interactive elements
-- Enhanced focus indicators for accessibility compliance
-- ARIA labels added to all toolbar buttons
+- Backend editor accessibility fixes for improved screen reader support
+- Font sizes converted from pixels to rem units for WCAG 2.1 Level AA compliance
+- Removed drag and drop functionality for repeatable elements in favor of arrow buttons for better accessibility
+
+### 🔧 Bug Fixes
+
+**Features Hero Cards**
+- Fixed hover animation issue on Features hero card variant
+
+**Section Container Styling**
+- Added box-sizing: border-box to all section containers for consistent layout behavior
 
 ---
 
@@ -43,22 +58,18 @@ This changelog documents all notable changes to Promptless WP, including new fea
 
 ### ✨ New Features
 
-**Expanded Color Palette System**
-- Added 30 new professionally designed color palettes
-- Palettes organized by industry and mood
-- One-click application of complete color schemes
-- Preview palettes before applying
+**New Color Palettes**
+- Added 30 new modern, visually appealing, and accessible color palettes
+- Expanded selection for diverse brand requirements
 
-**Button Positioning Controls**
-- New alignment options for section buttons
-- Left, center, and right positioning available
-- Consistent button placement across all section types
+**Button Repositioning**
+- Added button positioning controls to Post Grid, Pricing, Team, Testimonial, Steps, Checklist, and Features sections
+- Consistent button placement options across all section types
 
 ### 🔧 Bug Fixes
 
-- Fixed color palette preview not updating in real-time
-- Resolved button alignment issues on mobile devices
-- Corrected spacing inconsistencies in dark mode
+- Fixed video autoplay so videos are not muted by default
+- Adjusted breakpoints for Checklist, FAQ, and Steps sections for consistency
 
 ---
 
@@ -66,23 +77,18 @@ This changelog documents all notable changes to Promptless WP, including new fea
 
 ### ✨ New Features
 
-**Video Poster Image Support**
-- Add custom poster images to video backgrounds
-- Improves perceived loading performance
-- Better thumbnail display before video plays
+**Video Poster Support**
+- Added comprehensive video poster image support across all sections
+- Better video thumbnail control and presentation
 
 ### 📚 Documentation
 
-- Complete documentation overhaul with expanded guides
-- New troubleshooting section with common solutions
-- Improved section-specific documentation
-- Added keyboard shortcuts reference
+- Complete documentation overhaul for Docusaurus compatibility
+- Comprehensive documentation cleanup and organization
 
 ### 🔧 Bug Fixes
 
-- Fixed video autoplay issues on iOS Safari
-- Resolved poster image scaling on mobile devices
-- Corrected z-index issues with video overlays
+- Fixed Convert tool issue where Features sections with inline variant weren't properly converting to other section types
 
 ---
 
