@@ -24,7 +24,6 @@ Think of checklist sections as your visual guide to help visitors quickly unders
 
 **Best placement**: After introductory content, before pricing sections, or as supporting evidence for claims.
 
-[Screenshot: Examples of different checklist section layouts and uses]
 
 ## Checklist Section Elements
 

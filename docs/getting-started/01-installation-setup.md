@@ -102,4 +102,3 @@ This opens the visual page builder where you'll add sections and content.
 ## Need Help?
 
 For installation issues: contact@promptlesswp.com
-

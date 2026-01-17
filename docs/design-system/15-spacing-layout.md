@@ -357,14 +357,14 @@ Many sections offer **grid layout controls**:
 Now that you understand spacing and layout:
 
 1. **Review** your current page layout for effectiveness and flow
-2. **Learn** about [Theme Variants](theme-variants) for mood and atmosphere
-3. **Explore** [Colors & Branding](colors-branding) to complement your layout choices
-4. **Practice** with [Working with Sections](../editor-guide/working-with-sections)
+2. **Learn** about [Theme Variants](16-theme-variants.md) for mood and atmosphere
+3. **Explore** [Colors & Branding](13-colors-branding.md) to complement your layout choices
+4. **Practice** with [Working with Sections](../editor-guide/05-working-with-sections.md)
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for hands-on layout practice
-- Check [Preview and Publishing](../editor-guide/preview-publishing) to test your layouts
-- Read [FAQ](../reference/faq) for common layout questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for hands-on layout practice
+- Check [Preview and Publishing](../editor-guide/06-preview-publishing.md) to test your layouts
+- Read [FAQ](../reference/30-faq.md) for common layout questions
 
 Remember: Great layout should feel natural and guide visitors smoothly toward your goals. The best spacing is often invisible - it just makes everything feel right!

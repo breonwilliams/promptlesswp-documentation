@@ -359,15 +359,15 @@ AI Section Builder offers three professional display modes for maximum flexibili
 Now that you understand theme integration:
 
 1. **Configure** your page layouts for optimal section display
-2. **Learn** about [Custom Fields Integration](custom-fields) for advanced functionality
-3. **Explore** [Database Integration](database-integration) to understand data storage
-4. **Review** [Performance Optimization](performance) for faster loading
+2. **Learn** about [Custom Fields Integration](18-custom-fields.md) for advanced functionality
+3. **Explore** [Database Integration](19-database-integration.md) to understand data storage
+4. **Review** [Performance Optimization](20-performance.md) for faster loading
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for hands-on practice
-- Check [Global Settings](../design-system/global-settings) for theme-related customizations
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for hands-on practice
+- Check [Global Settings](../design-system/12-global-settings.md) for theme-related customizations
 - Contact support with your specific theme name for personalized help
-- Read [FAQ](../reference/faq) for common theme-related questions
+- Read [FAQ](../reference/30-faq.md) for common theme-related questions
 
 Remember: AI Section Builder is designed to enhance your theme, not replace it. The best results come from working with your theme's strengths while using sections to create compelling, conversion-focused content!

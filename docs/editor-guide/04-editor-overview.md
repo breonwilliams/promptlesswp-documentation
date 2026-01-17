@@ -22,7 +22,6 @@ There are several ways to access the Promptless WP editor:
 - **Bookmark** the editor URL for pages you edit frequently
 - **Use browser back button** to return from preview mode
 
-[Screenshot: Different ways to access the editor]
 
 ## Editor Layout Deep Dive
 
@@ -52,7 +51,6 @@ The editor uses a three-panel layout designed for efficiency:
 - Advanced styling controls
 - Section-specific settings
 
-[Screenshot: Three-panel layout with detailed callouts]
 
 ## Toolbar Functions
 
@@ -93,7 +91,6 @@ Next to the page title, you'll see a small lock icon indicating your edit lock s
 
 **Session Expired**: If your WordPress session expires, a modal will prompt you to log in again to continue editing.
 
-[Screenshot: Toolbar with each button labeled and explained]
 
 ## Section Management System
 
@@ -129,7 +126,6 @@ Sections have different visual states:
 - **Warning**: Orange indicator, missing required content
 - **Error**: Red indicator, content needs fixing
 
-[Screenshot: Section list showing different states and drag handles]
 
 ## Content Editing Workflow
 
@@ -163,7 +159,6 @@ Every section follows a consistent structure:
 - **Custom Classes**: Additional CSS classes
 - **Display Settings**: Advanced visibility controls
 
-[Screenshot: Tab structure showing consistent organization]
 
 ## Live Preview System
 
@@ -193,7 +188,6 @@ In the preview, you can:
 - **Ruler guides**: Align elements precisely
 - **Focus modes**: Hide distractions while editing
 
-[Screenshot: Preview modes and tools in action]
 
 ## Global Settings Integration
 
@@ -225,7 +219,6 @@ Global settings show immediate effects:
 - **Font changes** apply across all text
 - **Style changes** affect all relevant elements
 
-[Screenshot: Global settings panel with live preview updates]
 
 ## State Management
 
@@ -265,7 +258,6 @@ For large pages with many sections:
 - **Cleanup routines** prevent memory leaks
 - **Efficient state updates** maintain responsiveness
 
-[Screenshot: Performance indicators and loading states]
 
 ## Accessibility Features
 
@@ -336,15 +328,14 @@ Power users can work faster with shortcuts:
 
 Now that you understand the editor:
 
-1. **Practice** with the [Working with Sections](working-with-sections) guide
-2. **Learn** about [Preview & Publishing](preview-publishing)
-3. **Explore** different [Section Types](../section-types/hero-sections)
-4. **Try** the [AI Features](../ai-features/ai-overview) for faster content creation
+1. **Practice** with the [Working with Sections](05-working-with-sections.md) guide
+2. **Learn** about [Preview & Publishing](06-preview-publishing.md)
+3. **Explore** different [Section Types](../section-types/hero-sections.md)
+4. **Try** the [AI Features](../ai-features/08-ai-overview.md) for faster content creation
 
 ## Need More Help?
 
-- Check [Troubleshooting Guide](../administration/troubleshooting) for technical issues
-- Review [Keyboard Shortcuts](../reference/faq) for efficiency tips
-- Read [FAQ](../reference/faq) for common questions
+- Check [Troubleshooting Guide](../administration/27-troubleshooting.md) for technical issues
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 The editor is designed to be intuitive, but don't hesitate to experiment - you can always undo changes or preview before publishing!

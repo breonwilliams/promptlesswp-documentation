@@ -23,7 +23,6 @@ Think of post grid sections as your content showcase - they should entice visito
 
 **Best placement**: Near the bottom of pages after main content, as additional value or engagement driver.
 
-[Screenshot: Examples of post grid sections in different contexts]
 
 ## Post Grid Section Elements
 
@@ -85,7 +84,6 @@ Think of post grid sections as your content showcase - they should entice visito
 - **Featured posts**: Manually selected important content
 - **Random selection**: Different posts each page load
 
-[Screenshot: Post grid configuration options and filtering]
 
 ## Content Strategy for Post Grids
 
@@ -143,7 +141,6 @@ Think of post grid sections as your content showcase - they should entice visito
 - **Trending topics**: Create timely content around current events
 - **Evergreen content**: Build library of always-relevant posts
 
-[Screenshot: Content strategy examples and post types]
 
 ## Design and Display Options
 
@@ -195,7 +192,6 @@ Think of post grid sections as your content showcase - they should entice visito
 - **Consistent styling** across all post cards
 - **Proper hierarchy** between title, excerpt, and metadata
 
-[Screenshot: Different display styles and responsive behaviors]
 
 ## Technical Configuration
 
@@ -241,7 +237,6 @@ Think of post grid sections as your content showcase - they should entice visito
 - **Publishing checklist** for new posts
 - **Regular content** audits and updates
 
-[Screenshot: Technical configuration options and settings]
 
 ## Advanced Post Grid Features
 
@@ -308,7 +303,6 @@ Filter: By industry or rating
 - **Sharing buttons** for social media integration
 - **Bookmark functionality** for saving posts
 
-[Screenshot: Advanced customization examples]
 
 ## Industry-Specific Examples
 
@@ -362,7 +356,6 @@ Filter: By industry or rating
 - **Industry news** and medical advances
 - Filter by: Specialty, treatment type, content format
 
-[Screenshot: Industry-specific post grid examples]
 
 ## Performance and Optimization
 
@@ -509,8 +502,8 @@ Now that you understand post grid sections:
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/global-settings) for post grid styling
-- Read [FAQ](../reference/faq) for common questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for editing basics
+- Check [Design System](../design-system/12-global-settings.md) for post grid styling
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: Post grid sections are only as good as the content they display. Invest in creating valuable, engaging blog posts with great featured images, and your post grid will become a powerful tool for keeping visitors engaged with your website!

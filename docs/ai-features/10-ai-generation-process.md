@@ -28,9 +28,8 @@ The modal first checks if AI is properly configured:
 - **Red X or warning** - Need to configure API settings
 - **Yellow warning** - Limited functionality available
 
-If you see warnings, visit [AI Settings](../administration/plugin-settings) to configure your OpenAI API key.
+If you see warnings, visit [Plugin Settings](../administration/25-plugin-settings.md) to configure your OpenAI API key.
 
-[Screenshot: AI modal opening with status check]
 
 ## Step 2: Adding Your Content
 
@@ -53,7 +52,6 @@ Before proceeding, verify:
 - ✅ **No gibberish text** - All text is readable
 - ✅ **Reasonable length** - Not too short (under 100 words) or too long (over 10,000 words)
 
-[Screenshot: Content upload and preview interface]
 
 ## Step 3: Configure AI Settings
 
@@ -103,7 +101,6 @@ Choose the tone that matches your brand:
 - Modern, dramatic appearance
 - Best for creative, tech, gaming sites
 
-[Screenshot: AI configuration options and settings]
 
 ## Step 4: Generate Your Sections
 
@@ -132,7 +129,6 @@ Typical processing times:
 
 If generation takes longer than 3 minutes, there may be an issue - check the troubleshooting guide.
 
-[Screenshot: AI generation progress and status indicators]
 
 ## Step 5: Review Generated Results
 
@@ -172,7 +168,6 @@ Click on each section to review:
 - **Completeness** - Is important information missing?
 - **Tone** - Does it match your brand voice?
 
-[Screenshot: Results panel showing quality scores and previews]
 
 ## Step 6: Select and Customize Sections
 
@@ -206,7 +201,6 @@ Before adding sections, choose design strategy:
 
 This affects how sections will look when added to your page.
 
-[Screenshot: Section selection and design strategy options]
 
 ## Step 7: Add Sections to Your Page
 
@@ -231,7 +225,6 @@ After sections are added:
 - **Look for obvious errors** - missing content, strange formatting
 - **Verify text makes sense** - AI isn't perfect
 
-[Screenshot: Newly added sections in editor with populated content]
 
 ## Step 8: Refining Your Generated Content
 
@@ -280,7 +273,6 @@ Click on any generated section to edit:
 - Create urgency or value
 - Link to appropriate pages
 
-[Screenshot: Before and after content refinement examples]
 
 ## Step 9: Final Review and Publishing
 
@@ -314,7 +306,6 @@ Before publishing your AI-generated page:
 4. **Click Update/Publish**
 5. **Test the live page** to ensure everything works
 
-[Screenshot: Final page review and publishing interface]
 
 ## Tips for Better AI Results
 
@@ -364,14 +355,14 @@ Before publishing your AI-generated page:
 After mastering the AI generation process:
 
 1. **Experiment** with different content types and formats
-2. **Learn** advanced [Design System](../design-system/global-settings) features for customization
+2. **Learn** advanced [Design System](../design-system/12-global-settings.md) features for customization
 3. **Explore** manual section building for unique elements
-4. **Check** [AI Troubleshooting](ai-troubleshooting) for specific issues
+4. **Check** [AI Troubleshooting](11-ai-troubleshooting.md) for specific issues
 
 ## Need More Help?
 
-- Read [AI Troubleshooting](ai-troubleshooting) for specific problems
-- Check [AI Settings](../administration/plugin-settings) for configuration help
-- Review [FAQ](../reference/faq) for common questions
+- Read [AI Troubleshooting](11-ai-troubleshooting.md) for specific problems
+- Check [Plugin Settings](../administration/25-plugin-settings.md) for configuration help
+- Review [FAQ](../reference/30-faq.md) for common questions
 
 Remember: AI generation is a starting point, not a final destination. The best results come from combining AI efficiency with human creativity and customization!

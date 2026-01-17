@@ -36,7 +36,6 @@ Finally, the AI:
 - **Ensures mobile responsiveness** - Looks great on all devices
 - **Optimizes for readability** - Perfect spacing and typography
 
-[Screenshot: AI process flow diagram]
 
 ## What AI Can Generate
 
@@ -65,7 +64,6 @@ The AI automatically:
 - **Selects content alignment** - Left, center, or right based on content type
 - **Optimizes for readability** - Font sizes and line spacing for easy reading
 
-[Screenshot: Before and after AI generation example]
 
 ## When to Use AI Features
 
@@ -129,7 +127,6 @@ The AI provides quality scores for generated content:
 - **70-79%** - Fair, review content carefully
 - **Below 70%** - Needs significant manual improvement
 
-[Screenshot: AI quality scoring interface]
 
 ## Getting Started with AI
 
@@ -141,7 +138,7 @@ To use AI features you need:
 - **Content to process** - Document or text to transform
 
 ### First Steps
-1. **Get an API key** (see [AI Settings guide](../administration/plugin-settings))
+1. **Get an API key** (see [Plugin Settings guide](../administration/25-plugin-settings.md))
 2. **Test with small content** - Try a simple document first
 3. **Learn the patterns** - See how AI structures different content types
 4. **Experiment** - Try different content types and styles
@@ -197,15 +194,15 @@ The AI features continue to improve:
 
 Ready to try AI features?
 
-1. **Set up AI** with the [AI Settings guide](../administration/plugin-settings)
-2. **Learn document upload** with [Document Upload guide](document-upload)
-3. **Follow the process** with [AI Generation guide](ai-generation-process)
-4. **Troubleshoot issues** with [AI Troubleshooting guide](ai-troubleshooting)
+1. **Set up AI** with the [Plugin Settings guide](../administration/25-plugin-settings.md)
+2. **Learn document upload** with [Document Upload guide](09-document-upload.md)
+3. **Follow the process** with [AI Generation guide](10-ai-generation-process.md)
+4. **Troubleshoot issues** with [AI Troubleshooting guide](11-ai-troubleshooting.md)
 
 ## Need More Help?
 
-- Check [AI Settings](../administration/plugin-settings) for setup help
-- Review [AI Troubleshooting](ai-troubleshooting) for common issues
-- Read [FAQ](../reference/faq) for general questions
+- Check [Plugin Settings](../administration/25-plugin-settings.md) for setup help
+- Review [AI Troubleshooting](11-ai-troubleshooting.md) for common issues
+- Read [FAQ](../reference/30-faq.md) for general questions
 
 The AI features are designed to save you time while maintaining professional quality - think of them as your intelligent assistant for web design!

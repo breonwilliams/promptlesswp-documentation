@@ -23,7 +23,6 @@ Think of team sections as introducing your visitors to the real people who will 
 
 **Best placement**: After company information but before testimonials or contact information.
 
-[Screenshot: Examples of team sections in different contexts]
 
 ## Team Section Elements
 
@@ -78,7 +77,6 @@ Each team member profile contains:
 - **Link text**: "View LinkedIn Profile", "Read Full Bio", "Connect"
 - **Target**: Choose whether links open in same window or new tab
 
-[Screenshot: Anatomy of team member profile showing all elements]
 
 ## Types of Effective Team Profiles
 
@@ -130,7 +128,6 @@ Robert streamlined our processes to reduce delivery time by 50% while improving 
 [Learn About Our Process →]
 ```
 
-[Screenshot: Examples of different bio styles and approaches]
 
 ## Writing Effective Team Bios
 
@@ -189,7 +186,6 @@ Robert streamlined our processes to reduce delivery time by 50% while improving 
 - Problem-solving approach or methodology
 - Continuous learning and development
 
-[Screenshot: Examples of trust-building bio elements]
 
 ## Design and Layout Options
 
@@ -243,7 +239,6 @@ Robert streamlined our processes to reduce delivery time by 50% while improving 
 - **Focus on face** with shoulders and upper chest visible
 - **Multiple shots** to choose the best natural expression
 
-[Screenshot: Photo style examples showing good vs poor team photos]
 
 ## Industry-Specific Approaches
 
@@ -307,7 +302,6 @@ Passion project: Teaching coding to underserved youth through local nonprofits.
 [Check Out GitHub →]
 ```
 
-[Screenshot: Industry-specific team profile examples]
 
 ## Team Section Variations
 
@@ -524,14 +518,14 @@ When not developing marketing strategies, Sarah volunteers at the local animal s
 Now that you understand team sections:
 
 1. **Gather** current team information and photos
-2. **Learn** about [Pricing Sections](pricing-sections) for converting visitors
-3. **Explore** [Steps Sections](steps-sections) for process explanation
+2. **Learn** about [Pricing Sections](pricing-sections.md) for converting visitors
+3. **Explore** [Steps Sections](steps-sections.md) for process explanation
 4. **Study** successful team pages in your industry for inspiration
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/global-settings) for team section styling
-- Read [FAQ](../reference/faq) for common questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for editing basics
+- Check [Design System](../design-system/12-global-settings.md) for team section styling
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: Team sections should make your business feel human and trustworthy. Show the real people behind the company and let their expertise and personality shine through!

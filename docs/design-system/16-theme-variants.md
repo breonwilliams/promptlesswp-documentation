@@ -347,15 +347,15 @@ Contact (Dark) - Final call-to-action
 Now that you understand theme variants:
 
 1. **Review** your current content and consider which sections would benefit from theme changes
-2. **Practice** switching themes in [Working with Sections](../editor-guide/working-with-sections)
-3. **Combine** with [Colors & Branding](colors-branding) knowledge for complete design control
+2. **Practice** switching themes in [Working with Sections](../editor-guide/05-working-with-sections.md)
+3. **Combine** with [Colors & Branding](13-colors-branding.md) knowledge for complete design control
 4. **Test** different theme combinations with your actual content
 
 ## Need More Help?
 
-- Review [Global Settings](global-settings) for configuring theme colors
-- Practice with [Working with Sections](../editor-guide/working-with-sections)
-- Check [Preview and Publishing](../editor-guide/preview-publishing) to test theme effectiveness
-- Read [FAQ](../reference/faq) for common theme questions
+- Review [Global Settings](12-global-settings.md) for configuring theme colors
+- Practice with [Working with Sections](../editor-guide/05-working-with-sections.md)
+- Check [Preview and Publishing](../editor-guide/06-preview-publishing.md) to test theme effectiveness
+- Read [FAQ](../reference/30-faq.md) for common theme questions
 
 Remember: Theme variants are powerful tools for creating emphasis, visual hierarchy, and emotional impact. Use them strategically to guide your visitors' attention and create the right feeling for each part of your content!

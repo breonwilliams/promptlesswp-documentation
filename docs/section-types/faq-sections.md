@@ -23,7 +23,6 @@ Think of FAQ sections as your 24/7 customer service representative, answering th
 
 **Best placement**: Near the end of pages, after presenting value but before final call-to-action.
 
-[Screenshot: Examples of FAQ sections in different contexts]
 
 ## FAQ Section Elements
 
@@ -66,7 +65,6 @@ Each FAQ item contains:
 - **Include helpful details** but avoid overwhelming
 - **End with action step** when appropriate
 
-[Screenshot: Anatomy of FAQ items showing questions and expanded answers]
 
 ## Types of Effective FAQs
 
@@ -126,7 +124,6 @@ Each FAQ item contains:
 - **Q**: "Why should I choose you over competitors?"
 - **A**: "We're the only company that offers **same-day response**, **fixed-price contracts**, and **lifetime support**. Plus, we specialize in your industry with 50+ similar projects completed."
 
-[Screenshot: Examples of different FAQ types organized by category]
 
 ## Writing Effective FAQ Content
 
@@ -200,7 +197,6 @@ Q: Can I see examples of your work?
 A: Absolutely! Check out our **[portfolio page](link)** to see recent projects, or view **[client testimonials](link)** to hear directly from customers.
 ```
 
-[Screenshot: Examples of well-formatted FAQ answers with rich text]
 
 ## FAQ Organization and Structure
 
@@ -255,7 +251,6 @@ A: Absolutely! Check out our **[portfolio page](link)** to see recent projects, 
 - **User testing** to identify confusion points
 - **Analytics data** on where visitors drop off
 
-[Screenshot: FAQ organization examples showing different structures]
 
 ## Advanced FAQ Features
 
@@ -329,7 +324,6 @@ Q: How do I prepare for our first meeting?
 A: Download our **[free preparation guide](resource-link)** with everything you need to know.
 ```
 
-[Screenshot: FAQ integration with other page elements]
 
 ## Industry-Specific FAQ Examples
 
@@ -375,7 +369,6 @@ A: Download our **[free preparation guide](resource-link)** with everything you 
 - "What should I bring to my visit?"
 - "What are your office hours?"
 
-[Screenshot: Industry-specific FAQ examples]
 
 ## Mobile and Accessibility Considerations
 
@@ -484,14 +477,14 @@ A: Download our **[free preparation guide](resource-link)** with everything you 
 Now that you understand FAQ sections:
 
 1. **Collect** common questions from customers and sales team
-2. **Learn** about [Team Sections](team-sections) for building personal connections
-3. **Explore** [Pricing Sections](pricing-sections) for converting visitors
+2. **Learn** about [Team Sections](team-sections.md) for building personal connections
+3. **Explore** [Pricing Sections](pricing-sections.md) for converting visitors
 4. **Study** competitor FAQs for industry best practices
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/global-settings) for FAQ styling options
-- Read [FAQ](../reference/faq) for common plugin questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for editing basics
+- Check [Design System](../design-system/12-global-settings.md) for FAQ styling options
+- Read [FAQ](../reference/30-faq.md) for common plugin questions
 
 Remember: Great FAQs don't just answer questions - they remove barriers to purchase and build confidence in your solution. Focus on what visitors really want to know, not just what you want to tell them!

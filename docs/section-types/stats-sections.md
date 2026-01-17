@@ -23,7 +23,6 @@ Think of stats sections as your "proof of concept" - concrete evidence that you 
 
 **Best placement**: After hero sections and before detailed content, as supporting evidence.
 
-[Screenshot: Examples of different stats section layouts and number types]
 
 ## Stats Section Elements
 
@@ -66,7 +65,6 @@ Each stat contains:
 - **Format**: Rich text supported (bold, italic, links)
 - **Keep brief**: 1-2 sentences maximum
 
-[Screenshot: Anatomy of a stat item showing value, label, and description]
 
 ## Layout and Design Options
 
@@ -116,7 +114,6 @@ Each stat contains:
 - **Labels provide context** for understanding
 - **Descriptions add detail** for interested visitors
 
-[Screenshot: Different grid layouts and alignment options]
 
 ## Types of Effective Statistics
 
@@ -175,7 +172,6 @@ Each stat contains:
 - **Market expansion**: "Enter 5 New Markets"
 - **Customer acquisition**: "Gain 200% More Customers"
 
-[Screenshot: Examples of different stat types organized by category]
 
 ## Writing Compelling Stats Content
 
@@ -228,7 +224,6 @@ Each stat contains:
 - Focus on most impressive and relevant
 - Save detailed breakdowns for other sections
 
-[Screenshot: Good vs poor stat examples with explanations]
 
 ## Advanced Stats Features
 
@@ -279,7 +274,6 @@ Each stat contains:
 - Create urgency with growth numbers
 - Transition from proof to action
 
-[Screenshot: Stats sections integrated with other content types]
 
 ## Industry-Specific Examples
 
@@ -325,7 +319,6 @@ Each stat contains:
 - "90-Day Results" - Speed of implementation
 - "100% Success Rate" - Confidence in delivery
 
-[Screenshot: Industry-specific stats examples]
 
 ## Mobile Optimization
 
@@ -432,14 +425,14 @@ Each stat contains:
 Now that you understand stats sections:
 
 1. **Identify** your most impressive and relevant numbers
-2. **Learn** about [Testimonials Sections](testimonials-sections) for personal social proof
-3. **Explore** [FAQ Sections](faq-sections) for addressing concerns
+2. **Learn** about [Testimonials Sections](testimonials-sections.md) for personal social proof
+3. **Explore** [FAQ Sections](faq-sections.md) for addressing concerns
 4. **Study** competitors' statistics for industry benchmarks
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/global-settings) for number styling and colors
-- Read [FAQ](../reference/faq) for common questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for editing basics
+- Check [Design System](../design-system/12-global-settings.md) for number styling and colors
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: Stats should tell a story about your success and reliability. Choose numbers that matter to your visitors, not just numbers that make you look good!

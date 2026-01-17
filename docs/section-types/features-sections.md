@@ -23,7 +23,6 @@ Think of features sections as your "why choose us" explanation broken into bite-
 
 **Best placement**: After hero sections, as supporting evidence for your main message.
 
-[Screenshot: Examples of different features section layouts and uses]
 
 ## Features Section Elements
 
@@ -83,7 +82,6 @@ Each feature card contains:
 - **Best for**: Event listings, news updates, announcements
 - **Layout**: Optimized for dates, times, and event information
 
-[Screenshot: Features vs Events display mode comparison]
 
 ## Layout and Design Options
 
@@ -147,7 +145,6 @@ Each feature card contains:
 - **Features**: Optimized link visibility, enhanced hover states
 - **When to use**: When you want features to stand out as a focal point rather than supporting content
 
-[Screenshot: Different grid layouts and card styles]
 
 ## Creating Effective Feature Content
 
@@ -209,7 +206,6 @@ Don't just describe what the feature is - explain why visitors should care:
 - **Make them relevant** - icon should relate to the feature
 - **Avoid clichés** - generic icons like lightbulbs or gears
 
-[Screenshot: Good vs poor icon choices and image selection]
 
 ## Common Features Section Types
 
@@ -244,7 +240,6 @@ Don't just describe what the feature is - explain why visitors should care:
 - **Local Team** - "Work directly with people in your community"
 - **Award-Winning Service** - "Recognized as 'Best in Class' three years running"
 
-[Screenshot: Examples of different business types using features sections]
 
 ## Advanced Features Configuration
 
@@ -331,7 +326,6 @@ When to use Events mode:
 - Compliance or certification details
 - Background information or context
 
-[Screenshot: Examples of well-organized feature hierarchies]
 
 ## Mobile Optimization
 
@@ -474,14 +468,14 @@ When to use Events mode:
 Now that you understand features sections:
 
 1. **Practice** creating features for different business types
-2. **Learn** about [Stats Sections](stats-sections) for adding compelling numbers
-3. **Explore** [Testimonials](testimonials-sections) for social proof
+2. **Learn** about [Stats Sections](stats-sections.md) for adding compelling numbers
+3. **Explore** [Testimonials](testimonials-sections.md) for social proof
 4. **Study** successful competitors' features sections for inspiration
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/global-settings) for consistent styling
-- Read [FAQ](../reference/faq) for common questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for editing basics
+- Check [Design System](../design-system/12-global-settings.md) for consistent styling
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: Features sections should answer "What's in it for me?" from your visitor's perspective. Focus on benefits, not just features!

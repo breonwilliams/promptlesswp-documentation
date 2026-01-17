@@ -32,4 +32,3 @@ Plugin uses standard WordPress capabilities only.
 ## Need Help?
 
 For permission issues: contact@promptlesswp.com
-

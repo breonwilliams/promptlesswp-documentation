@@ -165,5 +165,3 @@ contact@promptlesswp.com
 - PHP version
 - Active theme
 - Error messages
-
-

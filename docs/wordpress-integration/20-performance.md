@@ -297,14 +297,14 @@ Now that you understand performance optimization:
 
 1. **Run performance tests** on your current site to establish baseline
 2. **Implement recommended optimizations** starting with highest-impact items
-3. **Learn** about [Advanced Features](../advanced-features/seo-analytics) for enhanced functionality
+3. **Learn** about [Advanced Features](../advanced-features/24-seo-analytics.md) for enhanced functionality
 4. **Monitor performance regularly** as you add content
 
 ## Need More Help?
 
-- Review [Working with Themes](working-with-themes) for theme-specific performance tips
-- Check [Database Integration](database-integration) for database optimization
+- Review [Working with Themes](17-working-with-themes.md) for theme-specific performance tips
+- Check [Database Integration](19-database-integration.md) for database optimization
 - Contact your hosting provider for server-level performance optimization
-- Read [FAQ](../reference/faq) for common performance questions
+- Read [FAQ](../reference/30-faq.md) for common performance questions
 
 Remember: Great performance enhances user experience and SEO rankings. AI Section Builder provides a solid foundation, but thoughtful content creation and proper hosting make the biggest difference in real-world performance!

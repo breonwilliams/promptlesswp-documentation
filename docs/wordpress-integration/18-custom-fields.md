@@ -299,15 +299,15 @@ add_filter('aisb_render_section_data', 'custom_render_modifications');
 Now that you understand custom fields integration:
 
 1. **Practice** editing section content and observe how it integrates with WordPress
-2. **Learn** about [Database Integration](database-integration) for deeper technical understanding  
-3. **Explore** [Performance Optimization](performance) for faster loading
+2. **Learn** about [Database Integration](19-database-integration.md) for deeper technical understanding  
+3. **Explore** [Performance Optimization](20-performance.md) for faster loading
 4. **Review** your backup strategy to ensure section content is protected
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) to practice content management
-- Check [WordPress Integration Overview](working-with-themes) for broader integration topics
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) to practice content management
+- Check [WordPress Integration Overview](17-working-with-themes.md) for broader integration topics
 - Contact support for specific integration questions with other plugins
-- Read [FAQ](../reference/faq) for common custom field questions
+- Read [FAQ](../reference/30-faq.md) for common custom field questions
 
 Remember: AI Section Builder leverages WordPress's robust custom field system to provide reliable, secure, and future-proof content management that integrates seamlessly with the WordPress ecosystem!

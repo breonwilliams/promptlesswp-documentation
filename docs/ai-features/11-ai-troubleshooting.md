@@ -30,7 +30,6 @@ Having issues with the AI features? This guide covers common problems and their 
    - Update plugin if needed
    - Deactivate and reactivate plugin
 
-[Screenshot: AI Settings page showing API key configuration]
 
 ### AI Modal Won't Open
 
@@ -106,7 +105,6 @@ Promptless WP caches AI responses for 24 hours to optimize performance and reduc
 - This creates a different cache key
 - Results in new AI processing
 
-[Screenshot: Cache management page showing Clear AI Cache button]
 
 **Tip**: The cache system is designed to be transparent to users. In normal usage, you'll rarely need to think about it.
 
@@ -145,7 +143,6 @@ Promptless WP caches AI responses for 24 hours to optimize performance and reduc
    - Check with hosting provider about upload limits
    - Try uploading smaller test document
 
-[Screenshot: Upload error messages and file requirements]
 
 ### Content Extraction Problems
 
@@ -236,7 +233,6 @@ Promptless WP caches AI responses for 24 hours to optimize performance and reduc
    - Restart browser and try again
    - Process content in smaller chunks
 
-[Screenshot: Generation timeout and processing indicators]
 
 ### Generation Fails with Error
 
@@ -304,7 +300,6 @@ Promptless WP caches AI responses for 24 hours to optimize performance and reduc
    - Heavily edit generated content
    - Combine AI and manual building
 
-[Screenshot: Quality scoring and improvement suggestions]
 
 ## Content and Results Issues
 
@@ -506,7 +501,6 @@ If AI features aren't working:
 - **Focus on one section type** at a time manually
 - **Combine manual building with AI enhancement**
 
-[Screenshot: Support contact information and helpful resources]
 
 ## Prevention Tips
 
@@ -541,14 +535,14 @@ If AI features aren't working:
 If you're having ongoing AI issues:
 
 1. **Master manual section building** as backup skill
-2. **Learn about [Design System](../design-system/global-settings)** for customization
-3. **Check [Administration](../administration/plugin-settings)** guides for system optimization
-4. **Review [FAQ](../reference/faq)** for additional answers
+2. **Learn about [Design System](../design-system/12-global-settings.md)** for customization
+3. **Check [Administration](../administration/27-troubleshooting.md)** guides for system optimization
+4. **Review [FAQ](../reference/30-faq.md)** for additional answers
 
 ## Need More Help?
 
-- Check [AI Settings](../administration/plugin-settings) for configuration help
-- Review [System Requirements](../administration/troubleshooting)
-- Read [FAQ](../reference/faq) for common questions
+- Check [Plugin Settings](../administration/25-plugin-settings.md) for configuration help
+- Review [System Requirements](../reference/29-system-requirements.md)
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: AI is a powerful tool when it works, but manual building is always available as a reliable alternative!

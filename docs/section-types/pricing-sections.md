@@ -23,7 +23,6 @@ Think of pricing sections as your sales presentation - they should make the buyi
 
 **Best placement**: After value has been established through features, benefits, and social proof.
 
-[Screenshot: Examples of pricing sections in different contexts]
 
 ## Pricing Section Elements
 
@@ -95,7 +94,6 @@ Each pricing plan contains:
 - **Style**: Primary, Secondary, or Ghost button styling
 - **Target**: Same window or new tab opening
 
-[Screenshot: Anatomy of pricing plan showing all elements]
 
 ## Types of Effective Pricing Strategies
 
@@ -188,7 +186,6 @@ For serious users
 • Priority support
 ```
 
-[Screenshot: Examples of different pricing strategy types]
 
 ## Display Modes and Options
 
@@ -282,7 +279,6 @@ For serious users
 - **Include "save X%" messaging** for annual plans
 - **Show price per user** or unit when beneficial
 
-[Screenshot: Pricing psychology examples and techniques]
 
 ## Advanced Pricing Features
 
@@ -428,7 +424,6 @@ Get personal guidance
 • Graduation certificate
 ```
 
-[Screenshot: Industry-specific pricing examples]
 
 ## Mobile and Conversion Optimization
 
@@ -585,14 +580,14 @@ Get personal guidance
 Now that you understand pricing sections:
 
 1. **Analyze** your current pricing strategy and presentation
-2. **Learn** about [Steps Sections](steps-sections) for explaining processes
-3. **Explore** [Post Grid Sections](postgrid-sections) for content display
+2. **Learn** about [Steps Sections](steps-sections.md) for explaining processes
+3. **Explore** [Post Grid Sections](postgrid-sections.md) for content display
 4. **Study** successful pricing pages in your industry
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/global-settings) for pricing section styling
-- Read [FAQ](../reference/faq) for common questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for editing basics
+- Check [Design System](../design-system/12-global-settings.md) for pricing section styling
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: Effective pricing sections don't just show prices - they communicate value, reduce risk, and guide visitors toward the best choice for their needs. Focus on making the buying decision as easy and confident as possible!

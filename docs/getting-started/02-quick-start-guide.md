@@ -117,4 +117,3 @@ You've created a complete page with hero, features, and testimonials.
 ## Need Help?
 
 For issues not covered here: contact@promptlesswp.com
-

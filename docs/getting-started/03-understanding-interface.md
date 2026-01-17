@@ -13,7 +13,6 @@ When you open the Promptless WP editor, you'll see a clean layout:
 
 Think of it like a workspace where you can see your changes instantly as you make them.
 
-[Screenshot: Full editor interface with panels labeled]
 
 ## Top Toolbar
 
@@ -32,7 +31,6 @@ In the middle, you'll see:
 - **"Editing: [Page Name]"** - Confirms which page you're working on
 - **Status indicators** - Shows if changes are saved or pending
 
-[Screenshot: Toolbar with each button labeled]
 
 ## Left Sidebar: Content Control
 
@@ -67,7 +65,6 @@ The left sidebar shows tabs for editing:
 - **Custom CSS classes** for styling
 - **Additional technical options**
 
-[Screenshot: Left sidebar showing different tab states]
 
 ## Center Area: Live Preview
 
@@ -92,7 +89,6 @@ The preview automatically adjusts for:
 - **Tablet view** (when you narrow the browser)
 - **Mobile view** (on narrow screens)
 
-[Screenshot: Center preview showing section hover state and responsive indicators]
 
 ## Right Sidebar: Global Settings
 
@@ -110,7 +106,6 @@ The right sidebar opens when you click the settings icon:
 - All sections use these settings by default
 - Individual sections can override with their own settings
 
-[Screenshot: Right sidebar showing global settings and section controls]
 
 ## Navigation Patterns
 
@@ -134,7 +129,6 @@ Understanding how to move around the editor efficiently:
 3. **Use delete button** to remove sections
 4. **Copy sections** with the duplicate button
 
-[Screenshot: Section management controls and reordering]
 
 ## Visual Feedback
 
@@ -162,7 +156,6 @@ Speed up your workflow with these shortcuts:
 - **Ctrl/Cmd + Z** - Undo last action
 - **Tab** - Move between form fields
 
-[Screenshot: Keyboard shortcuts reference card]
 
 ## Mobile Editing
 
@@ -203,4 +196,3 @@ Changes to content save automatically to the page. Global design settings need t
 ## Need Help?
 
 For interface issues: contact@promptlesswp.com
-

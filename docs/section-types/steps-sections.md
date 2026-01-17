@@ -23,7 +23,6 @@ Think of steps sections as your instruction manual - they should make complex th
 
 **Best placement**: After value proposition but before testimonials or pricing, showing how easy it is to get results.
 
-[Screenshot: Examples of steps sections in different contexts]
 
 ## Steps Section Elements
 
@@ -71,7 +70,6 @@ Each step contains:
 - **Timeline information** (duration, dependencies)
 - **Links** to detailed information or next actions
 
-[Screenshot: Anatomy of a step showing number, heading, and content]
 
 ## Types of Effective Steps
 
@@ -143,7 +141,6 @@ Complete hands-on projects with feedback from our expert instructors. Build a po
 Pass your final assessment and receive industry-recognized certification that employers value and respect.
 ```
 
-[Screenshot: Examples of different step types organized by industry]
 
 ## Writing Effective Steps Content
 
@@ -210,7 +207,6 @@ Join over 2,500 businesses who've used our proven planning methodology to achiev
 Using industry-leading tools like Salesforce and HubSpot, we integrate everything seamlessly with your existing systems.
 ```
 
-[Screenshot: Examples of confidence-building step content]
 
 ## Design and Layout Considerations
 
@@ -256,7 +252,6 @@ Using industry-leading tools like Salesforce and HubSpot, we integrate everythin
 - **Completion status** for interactive processes
 - **Current step highlighting** for active processes
 
-[Screenshot: Visual design examples showing different layouts and styles]
 
 ## Industry-Specific Examples
 
@@ -328,7 +323,6 @@ Your items are professionally packaged with protective materials and branded pre
 Most orders ship within 24 hours via your preferred carrier, with full tracking and insurance for your peace of mind.
 ```
 
-[Screenshot: Industry-specific steps examples]
 
 ## Advanced Steps Features
 
@@ -392,7 +386,6 @@ Select the plan that best fits your needs and budget. All packages include our c
 **Questions about our process?** Check our **[FAQ section below](#faq)** for answers to common questions about timelines, requirements, and next steps.
 ```
 
-[Screenshot: Steps integration with other content sections]
 
 ## Mobile and Accessibility Optimization
 
@@ -542,14 +535,14 @@ Select the plan that best fits your needs and budget. All packages include our c
 Now that you understand steps sections:
 
 1. **Map out** your key business processes for potential steps sections
-2. **Learn** about [Post Grid Sections](postgrid-sections) for content display
+2. **Learn** about [Post Grid Sections](postgrid-sections.md) for content display
 3. **Study** successful "How it Works" pages in your industry
 4. **Test** your steps with real customers for clarity
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/global-settings) for steps section styling
-- Read [FAQ](../reference/faq) for common questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for editing basics
+- Check [Design System](../design-system/12-global-settings.md) for steps section styling
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: Great steps sections don't just explain what you do - they show visitors how easy it is to get the results they want. Focus on their experience and outcomes, not just your internal processes!

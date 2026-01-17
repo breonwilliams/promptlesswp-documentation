@@ -84,4 +84,3 @@ For other issues: contact@promptlesswp.com
 ## Need Help?
 
 For settings issues: contact@promptlesswp.com
-

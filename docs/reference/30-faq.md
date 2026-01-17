@@ -169,4 +169,3 @@ Hero, Features, Stats, Testimonials, FAQ, Team, Pricing, Steps, Post Grid, Check
 ## Need Help?
 
 For issues not covered: contact@promptlesswp.com
-

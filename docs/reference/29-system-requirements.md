@@ -351,14 +351,14 @@ Now that you understand system requirements:
 
 1. **Verify** your current system meets all requirements
 2. **Upgrade** any components that don't meet specifications
-3. **Review** [FAQ](faq) for common questions
+3. **Review** [FAQ](30-faq.md) for common questions
 4. **Test** the plugin in a staging environment before production use
 
 ## Need More Help?
 
 - Contact your hosting provider for server configuration assistance
-- Review [Installation & Setup](../getting-started/installation-setup) for setup guidance
+- Review [Installation & Setup](../getting-started/01-installation-setup.md) for setup guidance
 - Check with theme developers for compatibility questions
-- Read [Troubleshooting](../administration/troubleshooting) for specific issues
+- Read [Troubleshooting](../administration/27-troubleshooting.md) for specific issues
 
 Remember: Meeting the recommended requirements ensures the best performance and user experience with AI Section Builder. When in doubt, choose higher specifications for better long-term performance!

@@ -350,15 +350,15 @@ document.addEventListener('click', function(e) {
 Now that you understand SEO and analytics:
 
 1. **Set up tracking** for your section-based content
-2. **Review** [Administration & Troubleshooting](../administration/plugin-settings) for site management
+2. **Review** [Administration & Troubleshooting](../administration/27-troubleshooting.md) for site management
 3. **Implement** regular SEO monitoring and optimization routines
 4. **Monitor performance** and adjust content based on data
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for content creation best practices
-- Check [Performance Optimization](../wordpress-integration/performance) for speed improvements
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for content creation best practices
+- Check [Performance Optimization](../wordpress-integration/20-performance.md) for speed improvements
 - Consult SEO plugin documentation for specific integration details
-- Read [FAQ](../reference/faq) for common SEO questions
+- Read [FAQ](../reference/30-faq.md) for common SEO questions
 
 Remember: Great SEO comes from creating valuable, well-structured content that serves your visitors' needs. AI Section Builder provides the technical foundation, but compelling, useful content is what drives real search engine success!

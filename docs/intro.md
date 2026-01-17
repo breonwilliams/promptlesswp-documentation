@@ -12,7 +12,7 @@ User guide for Promptless WP - WordPress page builder with AI content generation
 
 Promptless WP is a visual page builder for WordPress that allows you to:
 - Create beautiful pages with drag-and-drop sections
-- Generate content using AI from your documents  
+- Generate content using AI from your documents
 - Design responsive layouts without coding
 - Build professional websites quickly
 

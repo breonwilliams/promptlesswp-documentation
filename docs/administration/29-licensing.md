@@ -53,7 +53,6 @@ When you first install Promptless WP:
 5. **Click** "Activate License"
 6. **Enjoy** unlimited pages immediately!
 
-[Screenshot: License activation interface]
 
 ## Managing Your License
 

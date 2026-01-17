@@ -386,15 +386,15 @@ GROUP BY section_types;
 Now that you understand database integration:
 
 1. **Review** your current backup strategy to ensure section data is protected
-2. **Learn** about [Performance Optimization](performance) for faster loading
-3. **Explore** [Advanced Features](../advanced-features/seo-analytics) for enhanced functionality
+2. **Learn** about [Performance Optimization](20-performance.md) for faster loading
+3. **Explore** [Advanced Features](../advanced-features/24-seo-analytics.md) for enhanced functionality
 4. **Consider** your migration strategy if planning site moves
 
 ## Need More Help?
 
-- Review [Custom Fields Integration](custom-fields) for WordPress-level data management
-- Check [Working with Themes](working-with-themes) for integration context
+- Review [Custom Fields Integration](18-custom-fields.md) for WordPress-level data management
+- Check [Working with Themes](17-working-with-themes.md) for integration context
 - Contact hosting provider for database-specific questions
-- Read [FAQ](../reference/faq) for common database questions
+- Read [FAQ](../reference/30-faq.md) for common database questions
 
 Remember: AI Section Builder's WordPress-standard database integration ensures your content is secure, portable, and future-proof while providing excellent performance and compatibility!

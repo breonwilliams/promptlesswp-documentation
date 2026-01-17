@@ -45,7 +45,6 @@ The preview page automatically updates when you:
 - **Update section content**
 - **Change display modes**
 
-[Screenshot: Editor and preview tabs side by side]
 
 ## Display Modes Explained
 
@@ -90,7 +89,6 @@ Promptless WP offers two display modes that affect how your page appears:
 3. **Change Display Mode to "Full Width"**
 4. **Update the page**
 
-[Screenshot: Canvas vs Fullwidth mode comparison]
 
 ## Preview Testing Checklist
 
@@ -124,7 +122,6 @@ Before publishing, check these important elements:
 - [ ] **FAQ sections expand** - If using FAQ sections
 - [ ] **Links open correctly** - Internal vs external link behavior
 
-[Screenshot: Preview testing on different devices]
 
 ## Publishing Your Page
 
@@ -155,7 +152,6 @@ If updating a page that's already live:
 6. **Final preview check**
 7. **Publish or update** in WordPress
 
-[Screenshot: WordPress publishing interface]
 
 ## Cache and Performance Considerations
 
@@ -224,7 +220,6 @@ If updating a page that's already live:
 3. **Optimize images** for mobile
 4. **Adjust text sizes** in global settings
 
-[Screenshot: Common preview issues and solutions]
 
 ## SEO and Publishing
 
@@ -292,14 +287,14 @@ Yes! In WordPress page editor, click "Edit" next to "Publish immediately" and se
 Now that you understand preview and publishing:
 
 1. **Practice** with test pages before building important ones
-2. **Learn** about [Section Types](../section-types/hero-sections) for better content
-3. **Explore** [AI Features](../ai-features/ai-overview) to speed up content creation  
-4. **Master** the [Design System](../design-system/global-settings) for professional styling
+2. **Learn** about [Section Types](../section-types/hero-sections.md) for better content
+3. **Explore** [AI Features](../ai-features/08-ai-overview.md) to speed up content creation
+4. **Master** the [Design System](../design-system/12-global-settings.md) for professional styling
 
 ## Need More Help?
 
-- Review [WordPress Integration](../wordpress-integration/working-with-themes) guide
-- Check [Troubleshooting](../administration/troubleshooting) for technical issues
-- Read [FAQ](../reference/faq) for common questions
+- Review [WordPress Integration](../wordpress-integration/17-working-with-themes.md) guide
+- Check [Troubleshooting](../administration/27-troubleshooting.md) for technical issues
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: always preview your work before publishing, and don't be afraid to make updates after your page is live!

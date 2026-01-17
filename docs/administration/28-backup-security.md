@@ -47,4 +47,3 @@ Settings at: Promptless WP → Data Management
 ## Need Help?
 
 For backup questions: contact@promptlesswp.com
-

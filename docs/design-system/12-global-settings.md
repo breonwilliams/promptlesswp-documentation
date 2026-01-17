@@ -33,7 +33,6 @@ When you open global settings:
 - **Live preview** in the center updates as you make changes
 - **Save Settings button** becomes available in the toolbar
 
-[Screenshot: Global settings interface showing all panels]
 
 ## How Global Settings Work
 
@@ -116,7 +115,6 @@ All light mode colors have dark mode equivalents:
 - **Dark Muted Text** - Secondary text for dark mode
 - **Dark Borders** - Border colors for dark sections
 
-[Screenshot: Colors tab showing all color controls]
 
 ## Typography Tab
 
@@ -176,7 +174,6 @@ All light mode colors have dark mode equivalents:
 - **Test loading speed** - custom fonts can slow down pages
 - **Ensure legal licensing** for web use
 
-[Screenshot: Typography tab with font selection and upload interface]
 
 ### Heading Highlight Feature (New in v1.0.8)
 
@@ -210,7 +207,6 @@ Display: "We Help You" (normal) + "Grow Faster" (highlighted in primary color) +
 All heading fields in the editor display helper text explaining this feature:
 > "Wrap text in {curly braces} to highlight it in your primary color"
 
-[Screenshot: Heading highlight example showing before and after]
 
 ## Styling Tab
 
@@ -272,7 +268,6 @@ A bold, high-contrast design style featuring:
 - **Use case**: When smart colors don't match brand requirements
 - **Risk**: Can create accessibility problems if misused
 
-[Screenshot: Styling tab showing border radius and neo-brutalist options]
 
 ## Advanced Features
 
@@ -333,7 +328,6 @@ Pre-selected font combinations that work well together:
 - **Ensure good contrast** and readability
 - **Starting point** for further customization
 
-[Screenshot: Preset selection modals showing color and font options]
 
 ## Saving and Managing Changes
 
@@ -461,15 +455,15 @@ Verify your global settings maintain accessibility:
 
 After setting up your global design system:
 
-1. **Learn about [Colors & Branding](colors-branding)** for deeper color control
-2. **Explore [Typography](typography)** for advanced font techniques
-3. **Master [Styling Options](spacing-layout)** for fine-tuned control
-4. **Understand [Responsive Design](theme-variants)** for all devices
+1. **Learn about [Colors & Branding](13-colors-branding.md)** for deeper color control
+2. **Explore [Typography](14-typography.md)** for advanced font techniques
+3. **Master [Spacing & Layout](15-spacing-layout.md)** for fine-tuned control
+4. **Understand [Theme Variants](16-theme-variants.md)** for all devices
 
 ## Need More Help?
 
-- Check [Design System overview](../design-system/global-settings) for related guides
-- Review [FAQ](../reference/faq) for common questions
-- Read [Troubleshooting](../administration/troubleshooting) for technical issues
+- Check [Colors & Branding](13-colors-branding.md) for related guides
+- Review [FAQ](../reference/30-faq.md) for common questions
+- Read [Troubleshooting](../administration/27-troubleshooting.md) for technical issues
 
 Global Settings are the foundation of your site's design - invest time in getting them right and everything else becomes easier!

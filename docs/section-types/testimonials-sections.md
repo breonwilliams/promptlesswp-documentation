@@ -23,7 +23,6 @@ Think of testimonials as your customers doing the selling for you with their gen
 
 **Best placement**: After features or stats, before calls-to-action, as credibility before asking for action.
 
-[Screenshot: Examples of testimonial layouts in different contexts]
 
 ## Testimonials Section Elements
 
@@ -77,7 +76,6 @@ Each testimonial contains:
 - **Requirements**: Customer permission required
 - **Alternative**: Use company logos instead of personal photos
 
-[Screenshot: Anatomy of a testimonial showing all elements]
 
 ## Types of Effective Testimonials
 
@@ -129,7 +127,6 @@ Each testimonial contains:
 - "After poor experiences with other agencies, working with them was refreshing"
 - "The difference in quality compared to our previous provider is night and day"
 
-[Screenshot: Examples of different testimonial types and formats]
 
 ## Writing and Collecting Great Testimonials
 
@@ -189,7 +186,6 @@ Each testimonial contains:
 - **Update consent** if testimonials are used in new contexts
 - **Remove upon request** if customers ask
 
-[Screenshot: Sample testimonial collection email and consent form]
 
 ## Design and Layout Options
 
@@ -239,7 +235,6 @@ Each testimonial contains:
 - Long-form story testimonials where rating seems redundant
 - Industries where star ratings aren't common
 
-[Screenshot: Different layout options and visual treatments]
 
 ## Industry-Specific Approaches
 
@@ -297,7 +292,6 @@ of the way. The outcome was better than we hoped for."
 ⭐⭐⭐⭐⭐
 ```
 
-[Screenshot: Industry-specific testimonial examples]
 
 ## Advanced Testimonial Features
 
@@ -479,14 +473,14 @@ of the way. The outcome was better than we hoped for."
 Now that you understand testimonials sections:
 
 1. **Start collecting** testimonials from satisfied customers
-2. **Learn** about [FAQ Sections](faq-sections) for addressing concerns
-3. **Explore** [Team Sections](team-sections) for personal connection
+2. **Learn** about [FAQ Sections](faq-sections.md) for addressing concerns
+3. **Explore** [Team Sections](team-sections.md) for personal connection
 4. **Study** successful testimonials from your industry for inspiration
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for editing basics
-- Check [Design System](../design-system/global-settings) for styling testimonials
-- Read [FAQ](../reference/faq) for common questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for editing basics
+- Check [Design System](../design-system/12-global-settings.md) for styling testimonials
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: The best testimonials tell specific stories about real problems solved and genuine benefits received. Let your customers' authentic voices do the selling for you!

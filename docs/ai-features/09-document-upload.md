@@ -66,7 +66,6 @@ Customer Feedback:
 
 **Why this helps**: AI recognizes quotes with attribution and creates testimonial sections.
 
-[Screenshot: Well-structured Word document example]
 
 ### Content Organization Tips
 
@@ -117,7 +116,6 @@ For best results, include:
 - Paste into new document
 - Focus on high-impact content
 
-[Screenshot: Document size guidelines and file limits]
 
 ## How to Upload Documents
 
@@ -151,7 +149,6 @@ Before generating:
 - **Select optimization level** (Standard or Advanced)
 - **Enable design optimization** if desired
 
-[Screenshot: Upload interface and configuration options]
 
 ## Troubleshooting Upload Issues
 
@@ -207,7 +204,6 @@ Before generating:
 3. **Try different file** to test if issue is file-specific
 4. **Contact support** if problem persists
 
-[Screenshot: Common upload errors and solutions]
 
 ## Text Paste Alternative
 
@@ -256,7 +252,6 @@ If document upload isn't working, you can paste text instead:
 - **Internal memos** - Remove private information
 - **Raw data** - Add context and explanations
 
-[Screenshot: Good vs poor document examples]
 
 ## Security and Privacy
 
@@ -282,15 +277,15 @@ If document upload isn't working, you can paste text instead:
 
 After uploading your document:
 
-1. **Follow the [AI Generation Process](ai-generation-process)** guide
+1. **Follow the [AI Generation Process](10-ai-generation-process.md)** guide
 2. **Learn to refine results** with editing techniques
 3. **Try different content types** to see what works best
-4. **Check [AI Troubleshooting](ai-troubleshooting)** if you encounter issues
+4. **Check [AI Troubleshooting](11-ai-troubleshooting.md)** if you encounter issues
 
 ## Need More Help?
 
-- Review [AI Overview](ai-overview) for general AI understanding
-- Check [AI Troubleshooting](ai-troubleshooting) for upload issues
-- Read [FAQ](../reference/faq) for common questions
+- Review [AI Overview](08-ai-overview.md) for general AI understanding
+- Check [AI Troubleshooting](11-ai-troubleshooting.md) for upload issues
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: good input leads to great output - spend time preparing your document for best AI results!

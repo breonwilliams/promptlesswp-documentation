@@ -23,7 +23,6 @@ Think of hero sections as your "elevator pitch" - you have just seconds to convi
 
 **Best placement**: Always at the top of pages, as the first section visitors see.
 
-[Screenshot: Examples of different hero section layouts]
 
 ## Hero Section Elements
 
@@ -118,7 +117,6 @@ Think of hero sections as your "elevator pitch" - you have just seconds to convi
 - **Best for**: Landing pages, portfolio sites
 - **Requires**: High-quality, impactful imagery
 
-[Screenshot: Layout variants showing different arrangements]
 
 ## Logo Integration
 
@@ -194,7 +192,6 @@ When you use custom backgrounds, the system automatically:
 - **Adjusts muted text colors** proportionally
 - **Updates button colors** if needed for contrast
 
-[Screenshot: Custom background selection and smart color adjustments]
 
 ## Writing Effective Hero Content
 
@@ -249,7 +246,6 @@ When you use custom backgrounds, the system automatically:
 - ❌ "Request Information" (sounds like sales pitch)
 - ✅ "Get Instant Access" (sounds immediate and valuable)
 
-[Screenshot: Examples of good vs poor hero content]
 
 ## Technical Considerations
 
@@ -438,14 +434,14 @@ When you use custom backgrounds, the system automatically:
 Now that you understand hero sections:
 
 1. **Practice** creating different hero variations
-2. **Learn** about [Features Sections](features-sections) for supporting content
-3. **Explore** [Design System](../design-system/global-settings) for advanced styling
+2. **Learn** about [Features Sections](features-sections.md) for supporting content
+3. **Explore** [Design System](../design-system/12-global-settings.md) for advanced styling
 4. **Test** different approaches to see what works for your audience
 
 ## Need More Help?
 
-- Review [Working with Sections](../editor-guide/working-with-sections) for general editing
-- Check [Global Settings](../design-system/global-settings) for styling consistency
-- Read [FAQ](../reference/faq) for common questions
+- Review [Working with Sections](../editor-guide/05-working-with-sections.md) for general editing
+- Check [Global Settings](../design-system/12-global-settings.md) for styling consistency
+- Read [FAQ](../reference/30-faq.md) for common questions
 
 Remember: Your hero section has one job - convince visitors to stay and learn more about what you offer!

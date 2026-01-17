@@ -44,7 +44,6 @@ There are several ways to add sections to your page:
 3. **Browse all available types**
 4. **Section adds** to the end of your page
 
-[Screenshot: Different methods of adding sections]
 
 ## Section Types Overview
 
@@ -95,7 +94,6 @@ Here's what each section type is best for:
 **Contains**: Grid of blog post previews with titles, excerpts, dates
 **Example use**: Homepage blog feed, news section, latest updates
 
-[Screenshot: Examples of each section type]
 
 ## Editing Section Content
 
@@ -128,7 +126,6 @@ Every section is organized the same way:
 - **Outro Content**: Additional text after main content
 - **Buttons**: Call-to-action buttons
 
-[Screenshot: Content tab structure showing consistent organization]
 
 ### Editing Tips
 - **Type directly** in form fields to see instant updates
@@ -165,7 +162,6 @@ Every section is organized the same way:
 - **Add alt text** for accessibility and SEO
 - **Test on mobile** to ensure images look good on small screens
 
-[Screenshot: Media upload and configuration interface]
 
 ## Section Layout Options
 
@@ -201,7 +197,6 @@ Some sections have special display modes:
 - **Content Alignment**: Center or Left
 - **Billing Toggle**: Show monthly/yearly options
 
-[Screenshot: Layout controls and their effects]
 
 ## Advanced Section Management
 
@@ -239,7 +234,6 @@ Sections show different states:
 - **Red**: Has errors that need fixing
 - **Blue outline**: Currently selected/editing
 
-[Screenshot: Section management tools and status indicators]
 
 ## Content Organization Best Practices
 
@@ -292,7 +286,6 @@ Many sections use repeater fields for items like testimonials, features, or team
 3. **Confirm removal**
 4. **Item disappears** from section
 
-[Screenshot: Repeater field interface with drag handles]
 
 ## Content Quality Tips
 
@@ -340,15 +333,15 @@ Many sections use repeater fields for items like testimonials, features, or team
 
 Now that you know how to work with sections:
 
-1. **Explore** each [Section Type](../section-types/hero-sections) in detail
-2. **Learn** about [Preview & Publishing](preview-publishing)
-3. **Try** the [AI Features](../ai-features/ai-overview) to generate content faster
-4. **Experiment** with [Design System](../design-system/global-settings) controls
+1. **Explore** each [Section Type](../section-types/hero-sections.md) in detail
+2. **Learn** about [Preview & Publishing](06-preview-publishing.md)
+3. **Try** the [AI Features](../ai-features/08-ai-overview.md) to generate content faster
+4. **Experiment** with [Design System](../design-system/12-global-settings.md) controls
 
 ## Need More Help?
 
-- Read detailed guides for [Individual Section Types](../section-types/hero-sections)
-- Check [Troubleshooting Guide](../administration/troubleshooting)
-- Review [FAQ](../reference/faq) for common questions
+- Read detailed guides for [Individual Section Types](../section-types/hero-sections.md)
+- Check [Troubleshooting Guide](../administration/27-troubleshooting.md)
+- Review [FAQ](../reference/30-faq.md) for common questions
 
 Remember: sections are building blocks - start simple and add complexity as you get comfortable with the system!
